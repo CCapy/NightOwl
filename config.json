@@ -30,9 +30,9 @@
     },
     "display": {
         "sidebar": false,
-        "pos": false,
-        "long_id": false,
-        "short_id": false,
+        "pos": true,
+        "long_id": true,
+        "short_id": true,
         "name": true,
         "show_icons": false,
         "stats": true,

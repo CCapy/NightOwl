@@ -370,9 +370,9 @@ def extract_names(datas, zh_path=None, referenced_ids=None):
 
     out = []
     for rid in sorted(referenced_ids or []):
-        # 长ID: 优先人工核对的 variant_names, 其次事件链自动推导(vN->8(N-1)0),
-        # 夜Boss槽位走 m49_XX 事件映射 (Gael 904970000 / E33 140001 等)
-        ni = variant_ni.get(rid) or (ev_map.get(rid) or (0, 0, "", ""))[1] or night_map.get(rid) or None
+        # 长ID: 事件链自动推导优先(权威, 槽位规则按家族自适应),
+        # 其次人工核对的 variant_names(覆盖事件缺失的家族), 夜Boss走 m49_XX 事件映射
+        ni = (ev_map.get(rid) or (0, 0, "", ""))[1] or variant_ni.get(rid) or night_map.get(rid) or None
         en = (truth.get(rid) or (None, None))[0] or var_names.get(rid) \
             or name_src.get(rid) or name_src.get(rid // 10) or ""
         # 中文优先级: translations[长ID] > 旧链(zh字典/truth/基础ID回退)

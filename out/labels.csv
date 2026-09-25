@@ -570,8 +570,8 @@
 21300,Minor Erdtree,
 21400,Northeast Mistwood,
 21500,Summonwater,
-30000,Lordsworn Captain,骑士
-30001,Abductor Virgin,君王军的士兵长
+30000,Lordsworn Captain,君王军的士兵长
+30001,Abductor Virgin,铁处女
 30300,Guardian Golem,魔像
 30301,Crystalians,结晶人
 32000,Banished Knights,失乡
@@ -594,7 +594,7 @@
 34300,Beastmen of Farum Azula,兽人
 37900,Township,村庄
 38000,Oracle Envoys,使者
-38001,Guardian Golem,魔像
+38001,Guardian Golem,神谕众使者
 38100,Fire Monk,火焰
 38101,Mausoleum Knight,灵庙
 40000,Above Door,门上方
@@ -728,9 +728,9 @@
 46695,Corvian Knight,鸦人骑士
 46696,Corvian Knight,鸦人骑士
 46700,Dragonkin Soldier,龙人士兵
-46701,Dragonkin Soldier,龙人士兵
-46702,Godskin Apostle,神皮使徒
-46703,Godskin Noble,神皮贵族
+46701,Dragonkin Soldier,神皮使徒
+46702,Godskin Apostle,神皮贵族
+46703,Godskin Noble,熔炉骑士
 46704,Crucible Knight,熔炉骑士
 46711,Field Boss - Miranda Blossom,米兰达花
 46712,Field Boss - Miranda Blossom,米兰达花
@@ -741,8 +741,8 @@
 46723,Field Boss - Golden Hippopotamus,死骑士
 46724,Field Boss - Golden Hippopotamus,死骑士
 46741,Godskin Duo,神皮双人组
-46742,Death Rite Bird,死亡仪式鸟
-46743,Fallingstar Beast,坠星兽物
+46742,Death Rite Bird,坠星兽物
+46743,Fallingstar Beast,死亡仪式鸟
 46751,Ancient Dragon,古龙
 46752,Mountaintop Ice Dragon,山顶冰龙
 46753,Decaying Rancor Dragon,步入腐败仇恨龙

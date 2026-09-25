@@ -193,7 +193,7 @@ def load_data():
         text = r[2] or r[1] or str(r[0])
         names[int(r[0])] = text   # ID前缀由渲染层按运行配置添加
 
-    # 变体ID -> 文本ID (fmg/variant_names.csv 第4列 name_id, 如 45514 -> 904978000)
+    # 变体ID -> 文本ID: 事件链推导优先(权威), variant_names.csv 兜底
     name_ids = {}
     vn = os.path.join(HERE, "fmg", "variant_names.csv")
     if os.path.exists(vn):
@@ -203,11 +203,11 @@ def load_data():
             for row in rdr:
                 if len(row) >= 4 and row[0].isdigit() and row[3].isdigit():
                     name_ids[int(row[0])] = row[3]
-    # 事件链自动推导补充 (槽位规则 vN -> 8(N-1)0): variant_names 未收录的变体
+    # 事件链自动推导优先 (槽位规则按家族自适应: 含v0家族 vN->8N0, 其余 vN->8(N-1)0)
     try:
         from event_extract import extract as _ev_extract
-        for t, v in _ev_extract().items():
-            name_ids.setdefault(t, str(v[1]))
+        _ev = {t: str(v[1]) for t, v in _ev_extract().items()}
+        name_ids = {**name_ids, **_ev}
     except Exception:
         pass
     # 夜Boss槽位(49XX) -> 长ID: m49_XX 事件映射

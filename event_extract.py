@@ -13,6 +13,25 @@ def load_fmg(p):
 EN = load_fmg(os.path.join(HERE, 'fmg', 'en_NpcName.fmg.xml'))
 ZH = load_fmg(os.path.join(HERE, 'fmg', 'zh_NpcName.fmg.xml'))
 
+_v0_cache = {}
+
+
+def _family_has_v0(family):
+    """该家族(family*10=smallBaseMapId)的 variationId 是否含 0"""
+    if family not in _v0_cache:
+        base = str(family)
+        has = False
+        p = os.path.join(HERE, 'data', 'LotResultSmallBaseAndSpot.csv')
+        if os.path.exists(p):
+            import csv as _csv
+            for r in _csv.DictReader(open(p, encoding='utf-8-sig')):
+                if r['smallBaseMapId'] == base and r['variationId'] == '0':
+                    has = True
+                    break
+        _v0_cache[family] = has
+    return _v0_cache[family]
+
+
 def extract():
     result = {}
     for js in glob.glob(os.path.join(HERE, 'event', '*.emevd.dcx.js')):
@@ -27,9 +46,14 @@ def extract():
         for mm in re.finditer(r'\$InitializeCommonEvent\(\d+,\s*90015000,\s*(\d+),\s*(\d+),\s*(\d{9})', text):
             entity, nameid = int(mm.group(2)), int(mm.group(3))
             slot = entity % 1000  # 实体尾段 (兼容 46720810 / 46625870 两种编号格式)
-            # 槽位规则(实测校准): 实体槽 8(N-1)0 对应 variationId N, 即 800->v1, 810->v2...
-            var = (slot - 800) // 10 + 1 if 800 <= slot <= 890 else None
-            if var is None or not (1 <= var <= 9):
+            if not 800 <= slot <= 890:
+                continue
+            # 槽位规则按家族二选一 (实测校准, 种子211/4670家族证实):
+            #   变体从 v1 开始的家族(如 4662: v1~v8 <-> 800~870): vN -> 8(N-1)0
+            #   含 v0 的家族(如 4670: v0~v4):                     vN -> 8N0
+            _off = 0 if _family_has_v0(family) else 1
+            var = (slot - 800) // 10 + _off
+            if not (0 <= var <= 9):
                 continue
             t = family * 10 + var
             result[t] = (entity, nameid, EN.get(nameid, "?"), ZH.get(nameid, "?"))
