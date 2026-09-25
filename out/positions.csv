@@ -1,0 +1,605 @@
+﻿ID,name,areaNo,gridXNo,gridZNo,posX,posZ
+100,Major Base - Gatefront,60,42,37,108,50
+101,Major Base - Groveside,60,42,37,45,-107
+103,Major Base - Northwest Stormhill,60,42,39,-30,-45
+104,Major Base - South Lake,60,43,36,-29,-49
+106,Major Base - Alexander Spot,60,43,39,0,-77
+107,Major Base - Northeast Stormhill,60,43,39,-24,111
+108,Major Base - Waypoint Ruins,60,44,36,45,98
+109,Major Base - West Mistwood,60,44,37,75,-9
+110,Major Base - Artist's Shack,60,44,38,2,-13
+111,Major Base - Northwest Mistwood,60,44,38,126,-70
+112,Major Base - Summonwater Approach,60,44,39,73,-64
+113,Major Base - South Mistwood,60,45,36,-5,20
+114,Major Base - Minor Erdtree,60,45,37,4,-68
+116,Major Base - Northeast Mistwood,60,45,38,39,-9
+117,Major Base - Summonwater,60,45,39,-56,54
+118,,60,43,38,-128,92
+119,,60,43,39,0,-77
+120,Major Base - Stormhill North of Gate,60,42,38,53,-44
+121,Starter Major Base - Groveside,60,42,37,45,-107
+122,Starter Major Base - Gatefront,60,42,37,108,50
+123,Starter Major Base - Stormhill North of Gate,60,42,38,53,-44
+124,Starter Major Base - Stormhill North of Gate Alt,60,42,38,53,-44
+125,Starter Major Base - Waypoint Ruins,60,44,36,45,98
+126,Starter Major Base - Waypoint Ruins Alt,60,44,36,45,98
+127,Starter Major Base - Summonwater Approach,60,44,39,73,-64
+128,Starter Major Base - Minor Erdtree,60,45,37,4,-68
+129,Starter Major Base - Northwest Mistwood,60,44,38,126,-70
+190,Castle - Castle,60,43,37,89.7,62.66
+300,Minor Base - Far Southwest,60,42,36,-74,62
+301,Minor Base - Stormhill South of Gate,60,42,37,-66,44
+302,Minor Base - West of Warmaster's Shack,60,42,38,-48,98.46
+305,Minor Base - Lake,60,43,36,57,85
+306,Minor Base - Above Stormhill Tunnel Entrance,60,43,38,-86,32
+307,Minor Base - Southeast of Lake,60,44,36,-22,-72
+308,Minor Base - East of Cavalry Bridge,60,44,37,-52,-76
+309,Rotted Woods - Center West,60,44,37,34.33,-58.97
+310,Minor Base - Northeast of Saintsbridge,60,44,39,-72,44
+312,Minor Base - Minor Erdtree,60,45,37,86,4
+313,Minor Base - Third Church,60,45,38,44,97
+314,Minor Base - Below Summonwater Hawk,60,45,38,-86,81
+315,Rotted Woods - Southwest,60,44,36,99.06,12.58
+316,Rotted Woods - Northwest,60,44,37,72.97,39.88
+317,Rotted Woods - Far Northwest,60,44,37,-13.58,28.39
+318,Rotted Woods - Center East,60,45,37,-40.77,-83.51
+319,Rotted Woods - Far Northeast,60,45,37,49.5,46.28
+320,Rotted Woods - Northeast,60,45,37,25.51,-25.69
+321,Minor Base - Rotted Church,60,45,37,-112.99,-33.61
+322,Rotted Woods - Southeast,60,45,36,53.98,92.46
+350,Starter Minor Base - Far Southwest,60,42,36,-74,62
+351,Starter Minor Base - Stormhill South of Gate,60,42,37,-66,44
+352,Starter Minor Base - West of Warmaster's Shack,60,42,38,-48,98.46
+356,Starter Minor Base - Above Stormhill Tunnel Entrance,60,43,38,-86,32
+357,Starter Minor Base - Southeast of Lake,60,44,36,-22,-72
+358,Starter Minor Base - East of Cavalry Bridge,60,44,37,-52,-76
+360,Starter Minor Base - Northeast of Saintsbridge,60,44,39,-72,44
+362,Starter Minor Base - Minor Erdtree,60,45,37,86,4
+364,Starter Minor Base - Below Summonwater Hawk,60,45,38,-86,81
+365,,60,44,39,19.462,44
+500,Night Boss - Southwest Corner,60,42,36,26,-4
+502,Night Boss - West Stormhill Graveyard,60,42,38,-54,21
+503,Night Boss - South Lake,60,43,36,88,-29
+504,Night Boss - Northwest Lake,60,43,36,-75,88
+505,Night Boss - South of Castle,60,43,37,17,-58
+506,Night Boss - Northwest of Castle,60,43,38,-84,-62
+507,Night Boss - Northeast of Lake,60,44,37,-53,64
+509,Night Boss - East of Saintsbridge,60,44,39,-34,-22
+510,Night Boss - Noklateo Entrance,60,43,37,36.38,41.32
+511,Night Boss - Northeast Corner,60,45,39,82,18
+512,Night Boss - Southwest Mistwood,60,45,36,-88,96
+513,Night Boss - Northwest Mistwood Pond,60,45,37,-90.47,96.33
+514,Night Boss - Southeast Rotted Woods,60,44,36,48.9,91.35
+515,Night Boss - Northwest Rotted Woods,60,45,37,-30.53,53.87
+516,Night Boss - Southeast Mountaintop,60,43,38,-26.54,35.82
+517,Night Boss - North of Crater,60,43,39,88.99,96.707
+518,Night Boss - Northwest Corner,60,42,39,-54.12,61.66
+519,Night Boss - East of Noklateo Entrance,60,44,37,-53,64
+520,Event - Gnoster- Southwest Corner,60,42,36,26,-4
+521,Event - Gnoster- West Stormhill Graveyard,60,42,38,-54,21
+522,Event - Gnoster- Southeast Lake,60,43,36,88,-29
+523,Event - Gnoster- Northwest Lake,60,43,36,-75,88
+524,Event - Gnoster- South of Castle,60,43,37,17,-58
+525,Event - Gnoster- Northwest of Castle,60,43,38,-84,-62
+526,Event - Gnoster- Castle Front,60,44,37,-53,64
+527,Event - Gnoster- East of Saintsbridge,60,44,39,-34,-22
+528,Event - Gnoster- Northeast Corner,60,45,39,82,18
+529,Event - Gnoster- Southwest Mistwood,60,45,36,-88,96
+530,Event - Gnoster- Northwest Mistwood,60,45,37,-90.47,96.33
+531,,60,44,36,48.9,91.35
+532,Event - Gnoster- Northwest Rotted Woods,60,45,37,-30.53,53.87
+533,Event - Gnoster- Southeast Mountaintop,60,43,38,-26.54,35.82
+534,Event - Gnoster- North of Crater,60,43,39,88.99,96.707
+535,Event - Gnoster- East of Noklateo Entrance,60,44,37,-53,64
+536,Event - Gnoster- Noklateo Entrance,60,43,37,36.38,41.32
+540,Event - Morgott- Southwest Corner,60,42,36,26,-4
+541,Event - Morgott- West Stormhill Graveyard,60,42,38,-54,21
+542,Event - Morgott- Southeast Lake,60,43,36,88,-29
+543,Event - Morgott- Northwest Lake,60,43,36,-75,88
+544,Event - Morgott- South of Castle,60,43,37,17,-58
+545,Event - Morgott- Northwest of Castle,60,43,38,-84,-62
+546,Event - Morgott- Castle Front,60,44,37,-53,64
+547,Event - Morgott- East of Saintsbridge,60,44,39,-34,-22
+548,Event - Morgott- Northeast Corner,60,45,39,82,18
+549,Event - Morgott- Southwest Mistwood,60,45,36,-88,96
+550,Event - Morgott- Northwest Mistwood,60,45,37,-90.47,96.33
+551,Event - Morgott- Southeast Rotted Woods,60,44,36,48.9,91.35
+552,Event - Morgott- Northwest Rotted Woods,60,45,37,-30.53,53.87
+553,Event - Morgott- Southeast Mountaintop,60,43,38,-26.54,35.82
+554,Event - Morgott- North of Crater,60,43,39,88.99,96.707
+555,Event - Morgott- East of Noklateo Entrance,60,44,37,-53,64
+556,Event - Morgott- Noklateo Entrance,60,43,37,36.38,41.32
+560,Event - Maris- Southwest Corner,60,42,36,26,-4
+561,Event - Maris- West Stormhill Graveyard,60,42,38,-54,21
+562,Event - Maris- Southeast Lake,60,43,36,88,-29
+563,Event - Maris- Northwest Lake,60,43,36,-75,88
+564,Event - Maris- South of Castle,60,43,37,17,-58
+565,Event - Maris- Northwest of Castle,60,43,38,-84,-62
+566,Event - Maris- Castle Front,60,44,37,-53,64
+567,Event - Maris- East of Saintsbridge,60,44,39,-34,-22
+568,Event - Maris- Northeast Corner,60,45,39,82,18
+569,Event - Maris- Southwest Mistwood,60,45,36,-88,96
+570,Event - Maris- Northwest Mistwood,60,45,37,-90.47,96.33
+571,,60,44,36,48.9,91.35
+572,,60,45,37,-30.53,53.87
+573,Event - Maris- Southeast Mountaintop,60,43,38,-26.54,35.82
+574,Event - Maris- North of Crater,60,43,39,88.99,96.707
+575,,60,44,38,2,-13
+576,Event - Maris- East of Noklateo Entrance,60,44,37,-53,64
+577,Event - Maris- Noklateo Entrance,60,43,37,36.38,41.32
+580,Event - Libra- Southwest Corner,60,42,36,26,-4
+581,Event - Libra- West Stormhill Graveyard,60,42,38,-54,21
+582,Event - Libra- Southeast Lake,60,43,36,88,-29
+583,Event - Libra- Northwest Lake,60,43,36,-75,88
+584,Event - Libra- South of Castle,60,43,37,17,-58
+585,Event - Libra- Northwest of Castle,60,43,38,-84,-62
+586,Event - Libra- Castle Front,60,44,37,-53,64
+587,Event - Libra- East of Saintsbridge,60,44,39,-34,-22
+588,Event - Libra- Northeast Corner,60,45,39,82,18
+589,Event - Libra- Southwest Mistwood,60,45,36,-88,96
+590,Event - Libra- Northwest Mistwood,60,45,37,-90.47,96.33
+591,Event - Libra- Southeast Rotted Woods,60,44,36,48.9,91.35
+592,Event - Libra- Northwest Rotted Woods,60,45,37,-30.53,53.87
+593,Event - Libra- Southeast Mountaintop,60,43,38,-26.54,35.82
+594,Event - Libra- North of Crater,60,43,39,88.99,96.707
+595,Event - Libra- East of Noklateo Entrance,60,44,37,-53,64
+596,Event - Libra- Noklateo Entrance,60,43,37,36.38,41.32
+601,Evergaol - Northwest Edge,60,42,39,-125.4,-102.97
+602,Evergaol - Northwest of Lake,60,43,37,-107.35,-74.35
+603,Evergaol - West of Ravine,60,43,38,44.37,53.18
+604,Evergaol - North Ravine,60,43,39,99.79,82.09
+605,Evergaol - South Cliff,60,44,36,57.3,-26.55
+606,Evergaol - East of Ravine,60,44,38,73.22,82.15
+607,Evergaol - East Edge,60,45,38,61.87,-109.62
+615,Night Horde -,60,42,36,111.35,-13.79
+616,Night Horde -,60,42,36,-44.3,-17.62
+617,Night Horde -,60,42,36,71.96,-115.42
+618,Night Horde -,60,42,37,-107.05,108.15
+619,Night Horde -,60,42,37,21.34,46.81
+620,Night Horde -,60,42,37,-22.42,-37.87
+621,Night Horde -,60,42,38,-64.07,-44.73
+622,Night Horde -,60,42,38,-103,49.13
+623,Night Horde -,60,42,38,34.33,36.93
+624,Night Horde -,60,42,39,-49.79,78.24
+625,Night Horde -,60,42,39,57.26,16.37
+626,Night Horde -,60,42,39,120.27,-84.36
+627,Night Horde -,60,43,36,1.23,72.57
+628,Night Horde -,60,43,36,113.45,57.68
+629,Night Horde -,60,43,36,59.18,-109.54
+630,Night Horde -,60,43,37,119.14,-94.37
+631,Night Horde -,60,43,37,-42.25,-7.37
+632,Night Horde -,60,43,37,-88.09,104.64
+633,Night Horde -,60,43,38,100.74,13.1
+634,Night Horde -,60,43,38,54.99,-94.64
+635,Night Horde -,60,43,38,-82.2,88.58
+636,Night Horde -,60,43,39,-110.69,109.7
+637,Night Horde -,60,43,39,-71.81,-50.54
+638,Night Horde -,60,43,39,86.78,3.42
+639,Night Horde -,60,44,36,15.38,3.6
+640,Night Horde -,60,44,36,-57.72,88.02
+641,Night Horde -,60,44,36,-100.89,-50.86
+642,Night Horde -,60,44,37,-82.64,-14.15
+643,Night Horde -,60,44,37,12.25,39.28
+644,Night Horde -,60,44,37,87.25,103.81
+645,Night Horde -,60,44,38,-101.01,-15.03
+646,Night Horde -,60,44,38,-58.99,-109.43
+647,Night Horde -,60,44,38,13.31,107.03
+648,Night Horde -,60,44,39,-85.49,-98.42
+649,Night Horde -,60,44,39,-70.85,3.88
+650,Night Horde -,60,44,39,30.98,81.92
+651,Night Horde -,60,45,36,90.27,113
+652,Night Horde -,60,45,36,-2.33,-68.37
+653,Night Horde -,60,45,36,-106.83,40.46
+654,Night Horde -,60,45,37,-82.28,-49.75
+655,Night Horde -,60,45,37,-53.95,46.75
+656,Night Horde -,60,45,37,41.95,16.53
+657,Night Horde -,60,45,38,-45.8,99.06
+658,Night Horde -,60,45,38,112.6,48.65
+659,Night Horde -,60,45,38,-6.81,-101.21
+660,Night Horde -,60,45,39,-89.46,-21.93
+661,Night Horde -,60,45,39,1.06,-42.01
+662,Night Horde -,60,45,39,-104.67,107.68
+700,,60,42,36,57.51,75.78
+701,,60,42,39,80.95,-34.22
+702,,60,43,37,-46.9,-108.74
+703,,60,43,38,-5.19,-17.44
+704,,60,44,36,-64.96,-3.8
+705,,60,44,36,100.92,-0.03
+706,,60,44,37,-68.03,94.38
+707,,60,44,39,-119.68,27.72
+708,,60,45,39,45.09,-24.49
+710,Event - Scale-Bearing Merchant- Southwest Corner,60,42,36,56.585,71.43
+711,Event - Scale-Bearing Merchant- Northwest Corner,60,42,39,49.952,-44.263
+712,Event - Scale-Bearing Merchant- South of Castle,60,43,37,-50.232,-111.543
+713,Event - Scale-Bearing Merchant- Ruins North of Castle,60,43,38,-8.949,-23.482
+714,,60,44,36,103.027,-6.618
+715,Event - Scale-Bearing Merchant- Southeast Lakeshore,60,44,36,-65.831,-26.795
+716,Event - Scale-Bearing Merchant- Castle Front,60,44,37,-50.64,21.347
+717,Event - Scale-Bearing Merchant- East of Saintsbridge,60,44,39,-120,32.965
+718,Event - Scale-Bearing Merchant- Northeast Corner,60,45,39,44.291,-22.021
+750,Field Boss -,60,42,36,93.28,-111.43
+751,Field Boss -,60,42,38,-46.23,-77.53
+752,Field Boss -,60,42,38,-112.69,82.2
+753,Field Boss -,60,42,38,94.25,65.8
+754,Field Boss -,60,42,39,16.55,59.36
+755,Field Boss -,60,43,36,57,85
+756,Castle - Rooftop Boss,60,43,37,37.57,62.69
+757,Castle - Basement Boss,60,43,37,37.57,62.69
+758,Field Boss -,60,43,39,-124.81,19.15
+759,Field Boss -,60,43,39,84.86,-167.25
+760,Field Boss -,60,44,38,-49.54,55.63
+761,Field Boss -,60,44,39,79.16,50.83
+762,Field Boss -,60,45,36,-102.93,-46.38
+763,Field Boss -,60,45,37,22.18,117.69
+800,,60,42,36,26,-4
+801,,60,42,38,-54,21
+802,,60,43,36,88,-29
+803,,60,43,36,-75,88
+804,,60,43,37,17,-58
+805,,60,43,38,-84,-62
+806,,60,44,37,-53,64
+807,,60,44,39,-34,-22
+808,,60,45,39,82,18
+809,,60,45,36,-88,96
+810,,60,45,37,-90.47,96.33
+811,,60,44,36,48.9,91.35
+812,,60,45,37,-30.53,53.87
+813,,60,43,38,-26.54,35.82
+814,,60,43,39,88.99,96.707
+815,,60,42,39,-54.12,61.66
+816,,60,44,37,-53,64
+817,,60,43,37,36.38,41.32
+1103,[Great Hollow] Western Fort Sealed Boss,60,43,39,-131.633,-47.034
+1107,[Great Hollow] South Great Church,60,43,36,86.74,-17.49
+1108,[Great Hollow] North Great Church,60,45,38,37.46,-91.41
+1109,[Great Hollow] West Ruins,60,42,37,10.25,8.67
+1110,[Great Hollow] East Ruins,60,45,36,-74.25,81.39
+1111,[Great Hollow] East Tower Boss - Floor 1,60,45,36,-48.031,90.524
+1112,[Great Hollow] East Tower Boss - Floor 2,60,45,36,-47.89,90.45
+1113,[Great Hollow] East Tower Boss - Floor 3,60,45,36,-47.89,90.45
+1114,[Great Hollow] West Tower Boss - Floor 1,60,42,38,18.006,-21.273
+1115,[Great Hollow] West Tower Boss - Floor 2,60,42,38,18.14,-21.36
+1116,[Great Hollow] West Tower Boss - Floor 3,60,42,38,17.518,-21.204
+1130,[Great Hollow],60,43,36,-94.91,121.09
+1131,[Great Hollow],60,43,38,76.51,-30.38
+1132,[Great Hollow],60,44,37,55.69,35.04
+1133,[Great Hollow],60,44,39,0,-115
+1135,[Great Hollow] Eastern Fort Main,60,44,36,0,0
+1136,[Great Hollow] Eastern Fort Part A,60,44,37,0,0
+1137,[Great Hollow] Eastern Fort Part B,60,45,37,0,0
+1138,[Great Hollow] Eastern Fort Interior,60,44,36,0,0
+1139,[Great Hollow] Eastern Fort Part C,60,44,37,0,0
+1140,[Great Hollow] Eastern Fort Part D,60,45,37,0,0
+1141,[Great Hollow] Western Fort Part A,60,42,38,106.06,82.51
+1142,[Great Hollow] Western Fort Part B,60,42,39,71.68,-69.37
+1143,[Great Hollow] Western Fort Outside,60,43,38,-60.51,87.67
+1144,[Great Hollow] Western Fort Main,60,43,39,-105.33,-91.64
+1145,[Great Hollow] Western Fort Underground Part A,60,42,39,71.68,-69.37
+1146,[Great Hollow] Western Fort Underground Part B,60,43,38,-60.51,87.67
+1147,[Great Hollow] Western Fort Underground,60,43,39,-105.33,-91.64
+1148,[Great Hollow] Western Fort Library,60,42,39,71.68,-69.37
+1150,[Great Hollow] Minor Base,60,43,36,-84,-30
+1151,[Great Hollow] Minor Base,60,43,37,-96,94
+1152,[Great Hollow] Minor Base - Northeast of Great Crystal,60,44,37,52,97.36
+1153,[Great Hollow] Minor Base,60,45,37,28,10
+1155,[Great Hollow] Field Boss - South of West Tower,60,42,37,63.72,104.47
+1156,[Great Hollow] Field Boss - East of West Ruins,60,43,37,-68.35,-31.99
+1157,[Great Hollow] Field Boss - Before Divine Tower Bridge,60,43,38,71.02,107.58
+1158,[Great Hollow] Field Boss - North of Great Crystal,60,44,38,11.61,-107.4
+1159,[Great Hollow] Field Boss - North of East Ruins Underground,60,45,37,-77.02,-51.39
+1160,[Great Hollow] Field Boss - East Edge Underground,60,45,37,35.68,-87.7
+1161,[Great Hollow] Field Boss - South of Great Crystal,60,43,37,78.17,-103.79
+1162,[Great Hollow] Field Boss - Left of Great Crystal,60,43,37,41.49,13.05
+1163,[Great Hollow] Field Boss - Under Crystal Bridge Near Center,60,43,37,53.61,57.9
+1164,[Great Hollow] Field Boss - Middle Right Underground,60,45,37,-87.28,80.97
+1165,[Great Hollow] North of West Ruins,60,42,37,-8.046,68.973
+1166,[Great Hollow] Field Boss - South Church,60,43,36,30.734,79.104
+1170,[Great Hollow],60,42,37,95.81,-55.7
+1171,[Great Hollow],60,43,36,-91.67,25.97
+1172,[Great Hollow],60,43,37,22.18,53.62
+1173,[Great Hollow],60,43,38,-29.08,37.37
+1174,[Great Hollow],60,44,36,78.02,38.36
+1175,[Great Hollow],60,45,37,-27.83,-27.25
+1176,[Great Hollow],60,45,38,-30.71,-66.39
+1180,[Great Hollow],60,43,36,-94.91,121.09
+1181,[Great Hollow],60,43,38,76.51,-30.38
+1182,[Great Hollow],60,44,37,55.69,35.04
+1183,[Great Hollow],60,44,39,0,-115
+1200,[Great Hollow],60,43,36,-94.91,121.09
+1201,[Great Hollow],60,43,38,76.51,-30.38
+1202,[Great Hollow],60,44,37,55.69,35.04
+1210,[Great Hollow],60,43,38,1.77,-96.28
+1211,[Great Hollow],60,44,36,-59.33,101.45
+1212,[Great Hollow],60,44,37,-25.42,125.25
+1213,[Great Hollow],60,45,37,-67.97,10.28
+2100,,60,42,37,108,50
+2101,,60,42,37,45,-107
+2103,,60,42,39,-30,-45
+2104,[Large Base] South of Lake,60,43,36,-29,-49
+2106,,60,43,39,0,-77
+2107,,60,43,39,-24,111
+2108,[Large Base] Cliff West of Mistwood,60,44,36,45,98
+2109,[Large Base] West Mistwood,60,44,37,75,-9
+2110,,60,44,38,2,-13
+2111,[Large Base] Northwest Mistwood,60,44,38,126,-70
+2112,,60,44,39,73,-64
+2113,[Large Base] Southeast Corner,60,45,36,-5,20
+2114,,60,45,37,4,-68
+2116,,60,45,38,39,-9
+2117,,60,45,39,-56,54
+2118,,60,43,38,-128,92
+2119,,60,43,39,0,-77
+2120,,60,42,38,53,-44
+2121,,60,42,37,45,-107
+2122,,60,42,37,108,50
+2123,,60,42,38,53,-44
+2124,,60,42,38,53,-44
+2125,,60,44,36,45,98
+2126,,60,44,36,45,98
+2127,,60,44,39,73,-64
+2128,,60,45,37,4,-68
+2129,,60,44,38,126,-70
+2190,[Castle] Enemy Layout,60,43,37,89.7,62.66
+2300,,60,42,36,-74,62
+2301,,60,42,37,-66,44
+2302,,60,42,38,-48,98.46
+2305,,60,43,36,57,85
+2306,,60,43,38,-86,32
+2307,,60,44,36,-22,-72
+2308,,60,44,37,-52,-76
+2309,,60,44,37,34.33,-58.97
+2310,,60,44,39,-72,44
+2312,,60,45,37,86,4
+2313,,60,45,38,44,97
+2314,,60,45,38,-86,81
+2315,,60,44,36,99.06,12.58
+2316,,60,44,37,72.97,39.88
+2317,,60,44,37,-13.58,28.39
+2318,,60,45,37,-40.77,-83.51
+2319,,60,45,37,49.5,46.28
+2320,,60,45,37,25.51,-25.69
+2321,,60,45,37,-112.99,-33.61
+2322,,60,45,36,53.98,92.46
+2350,,60,42,36,-74,62
+2351,,60,42,37,-66,44
+2352,,60,42,38,-48,98.46
+2356,,60,43,38,-86,32
+2357,,60,44,36,-22,-72
+2358,,60,44,37,-52,-76
+2360,,60,44,39,-72,44
+2362,,60,45,37,86,4
+2364,,60,45,38,-86,81
+2365,,60,44,39,19.462,44
+2500,,60,42,36,26,-4
+2502,,60,42,38,-54,21
+2503,,60,43,36,88,-29
+2504,,60,43,36,-75,88
+2505,,60,43,37,17,-58
+2506,,60,43,38,-84,-62
+2507,,60,44,37,-53,64
+2509,,60,44,39,-34,-22
+2510,,60,43,37,36.38,41.32
+2511,,60,45,39,82,18
+2512,,60,45,36,-88,96
+2513,,60,45,37,-90.47,96.33
+2514,,60,44,36,48.9,91.35
+2515,,60,45,37,-30.53,53.87
+2516,,60,43,38,-26.54,35.82
+2517,,60,43,39,88.99,96.707
+2518,,60,42,39,-54.12,61.66
+2519,,60,44,37,-53,64
+2520,,60,42,36,26,-4
+2521,,60,42,38,-54,21
+2522,,60,43,36,88,-29
+2523,,60,43,36,-75,88
+2524,,60,43,37,17,-58
+2525,,60,43,38,-84,-62
+2526,,60,44,37,-53,64
+2527,,60,44,39,-34,-22
+2528,,60,45,39,82,18
+2529,,60,45,36,-88,96
+2530,,60,45,37,-90.47,96.33
+2531,,60,44,36,48.9,91.35
+2532,,60,45,37,-30.53,53.87
+2533,,60,43,38,-26.54,35.82
+2534,,60,43,39,88.99,96.707
+2535,,60,44,37,-53,64
+2536,,60,43,37,36.38,41.32
+2540,,60,42,36,26,-4
+2541,,60,42,38,-54,21
+2542,,60,43,36,88,-29
+2543,,60,43,36,-75,88
+2544,,60,43,37,17,-58
+2545,,60,43,38,-84,-62
+2546,,60,44,37,-53,64
+2547,,60,44,39,-34,-22
+2548,,60,45,39,82,18
+2549,,60,45,36,-88,96
+2550,,60,45,37,-90.47,96.33
+2551,,60,44,36,48.9,91.35
+2552,,60,45,37,-30.53,53.87
+2553,,60,43,38,-26.54,35.82
+2554,,60,43,39,88.99,96.707
+2555,,60,44,37,-53,64
+2556,,60,43,37,36.38,41.32
+2560,,60,42,36,26,-4
+2561,,60,42,38,-54,21
+2562,,60,43,36,88,-29
+2563,,60,43,36,-75,88
+2564,,60,43,37,17,-58
+2565,,60,43,38,-84,-62
+2566,,60,44,37,-53,64
+2567,,60,44,39,-34,-22
+2568,,60,45,39,82,18
+2569,,60,45,36,-88,96
+2570,,60,45,37,-90.47,96.33
+2571,,60,44,36,48.9,91.35
+2572,,60,45,37,-30.53,53.87
+2573,,60,43,38,-26.54,35.82
+2574,,60,43,39,88.99,96.707
+2575,,60,44,38,2,-13
+2576,,60,44,37,-53,64
+2577,,60,43,37,36.38,41.32
+2580,,60,42,36,26,-4
+2581,,60,42,38,-54,21
+2582,,60,43,36,88,-29
+2583,,60,43,36,-75,88
+2584,,60,43,37,17,-58
+2585,,60,43,38,-84,-62
+2586,,60,44,37,-53,64
+2587,,60,44,39,-34,-22
+2588,,60,45,39,82,18
+2589,,60,45,36,-88,96
+2590,,60,45,37,-90.47,96.33
+2591,,60,44,36,48.9,91.35
+2592,,60,45,37,-30.53,53.87
+2593,,60,43,38,-26.54,35.82
+2594,,60,43,39,88.99,96.707
+2595,,60,44,37,-53,64
+2596,,60,43,37,36.38,41.32
+2601,[Evergaol] Northwest Edge,60,42,39,-125.4,-102.97
+2602,[Evergaol] Northwest of Lake,60,43,37,-107.35,-74.35
+2603,[Evergaol] West of Ravine,60,43,38,44.37,53.18
+2604,[Evergaol] North Ravine,60,43,39,99.79,82.09
+2605,[Evergaol] South Cliff,60,44,36,57.3,-26.55
+2606,[Evergaol] East of Ravine,60,44,38,73.22,82.15
+2607,[Evergaol] East Edge,60,45,38,61.87,-109.62
+2615,,60,42,36,111.35,-13.79
+2616,,60,42,36,-44.3,-17.62
+2617,,60,42,36,71.96,-115.42
+2618,,60,42,37,-107.05,108.15
+2619,,60,42,37,21.34,46.81
+2620,,60,42,37,-22.42,-37.87
+2621,,60,42,38,-64.07,-44.73
+2622,,60,42,38,-103,49.13
+2623,,60,42,38,34.33,36.93
+2624,,60,42,39,-49.79,78.24
+2625,,60,42,39,57.26,16.37
+2626,,60,42,39,120.27,-84.36
+2627,,60,43,36,1.23,72.57
+2628,,60,43,36,113.45,57.68
+2629,,60,43,36,59.18,-109.54
+2630,,60,43,37,119.14,-94.37
+2631,,60,43,37,-42.25,-7.37
+2632,,60,43,37,-88.09,104.64
+2633,,60,43,38,100.74,13.1
+2634,,60,43,38,54.99,-94.64
+2635,,60,43,38,-82.2,88.58
+2636,,60,43,39,-110.69,109.7
+2637,,60,43,39,-71.81,-50.54
+2638,,60,43,39,86.78,3.42
+2639,,60,44,36,15.38,3.6
+2640,,60,44,36,-57.72,88.02
+2641,,60,44,36,-100.89,-50.86
+2642,,60,44,37,-82.64,-14.15
+2643,,60,44,37,12.25,39.28
+2644,,60,44,37,87.25,103.81
+2645,,60,44,38,-101.01,-15.03
+2646,,60,44,38,-58.99,-109.43
+2647,,60,44,38,13.31,107.03
+2648,,60,44,39,-85.49,-98.42
+2649,,60,44,39,-70.85,3.88
+2650,,60,44,39,30.98,81.92
+2651,,60,45,36,90.27,113
+2652,,60,45,36,-2.33,-68.37
+2653,,60,45,36,-106.83,40.46
+2654,,60,45,37,-82.28,-49.75
+2655,,60,45,37,-53.95,46.75
+2656,,60,45,37,41.95,16.53
+2657,,60,45,38,-45.8,99.06
+2658,,60,45,38,112.6,48.65
+2659,,60,45,38,-6.81,-101.21
+2660,,60,45,39,-89.46,-21.93
+2661,,60,45,39,1.06,-42.01
+2662,,60,45,39,-104.67,107.68
+2700,,60,42,36,57.51,75.78
+2701,,60,42,39,80.95,-34.22
+2702,,60,43,37,-46.9,-108.74
+2703,,60,43,38,-5.19,-17.44
+2704,,60,44,36,-64.96,-3.8
+2705,,60,44,36,100.92,-0.03
+2706,,60,44,37,-68.03,94.38
+2707,,60,44,39,-119.68,27.72
+2708,,60,45,39,45.09,-24.49
+2710,,60,42,36,56.585,71.43
+2711,,60,42,39,49.952,-44.263
+2712,,60,43,37,-50.232,-111.543
+2713,,60,43,38,-8.949,-23.482
+2714,,60,44,36,103.027,-6.618
+2715,,60,44,36,-65.831,-26.795
+2716,,60,44,37,-50.64,21.347
+2717,,60,44,39,-120,32.965
+2718,,60,45,39,44.291,-22.021
+2750,,60,42,36,93.28,-111.43
+2751,,60,42,38,-46.23,-77.53
+2752,,60,42,38,-112.69,82.2
+2753,,60,42,38,94.25,65.8
+2754,,60,42,39,16.55,59.36
+2755,,60,43,36,57,85
+2756,[Castle] Rooftop Boss,60,43,37,37.57,62.69
+2757,[Castle] Basement Boss,60,43,37,37.57,62.69
+2758,,60,43,39,-124.81,19.15
+2759,,60,43,39,84.86,-167.25
+2760,,60,44,38,-49.54,55.63
+2761,,60,44,39,79.16,50.83
+2762,,60,45,36,-102.93,-46.38
+2763,,60,45,37,22.18,117.69
+2800,,60,42,36,26,-4
+2801,,60,42,38,-54,21
+2802,,60,43,36,88,-29
+2803,,60,43,36,-75,88
+2804,,60,43,37,17,-58
+2805,,60,43,38,-84,-62
+2806,,60,44,37,-53,64
+2807,,60,44,39,-34,-22
+2808,,60,45,39,82,18
+2809,,60,45,36,-88,96
+2810,,60,45,37,-90.47,96.33
+2811,,60,44,36,48.9,91.35
+2812,,60,45,37,-30.53,53.87
+2813,,60,43,38,-26.54,35.82
+2814,,60,43,39,88.99,96.707
+2815,,60,42,39,-54.12,61.66
+2816,,60,44,37,-53,64
+2817,,60,43,37,36.38,41.32
+1000,[Standard] Southwest Corner,60,42,36,26,-4
+1001,[Standard] West Stormhill Graveyard,60,42,38,-54,21
+1002,[Standard] Northwest Corner,60,42,39,-54,61
+1003,[Standard] South Lake,60,43,36,88,-29
+1004,[Standard] Northwest Lake,60,43,36,-75,88
+1005,[Standard] South of Castle,60,43,37,17,-58
+1006,[Standard] Northwest of Castle,60,43,38,-84,-62
+1007,[Standard] Northeast of Lake,60,44,37,-53,64
+1008,[Standard] East of Saintsbridge,60,44,39,-34,-22
+1009,[Standard] Southwest Mistwood,60,45,36,-88,96
+1010,[Standard] Northwest Mistwood Pond,60,45,37,-48,82
+1011,[Standard] Northeast Corner,60,45,39,82,18
+1021,[Rotted Woods] Southeast Rotted Woods,60,44,36,48.9,91.352
+1022,[Rotted Woods] Northwest Rotted Woods,60,45,37,-30.535,53.865
+1023,[Mountaintop] Southeast Mountaintop,60,43,38,-26.54,35.82
+1024,[The Crater] North of Crater,60,43,39,88.99,96.707
+1025,[Shrouded City] Noklateo Entrance,60,43,37,36.38,41.32
+1026,[Shrouded City],60,44,37,-53,64
+11000,[Great Hollow],60,43,36,-96,121
+11001,[Great Hollow],60,43,38,75,-31
+11002,[Great Hollow],60,44,37,55.69,35.04
+12000,[Great Hollow] Divine Tower,60,44,39,0,-115
+12001,[Great Hollow] Divine Tower,60,44,39,0,-115
+21000,,60,42,36,26,-4
+21001,,60,42,38,-54,21
+21002,,60,42,39,-54,61
+21003,,60,43,36,88,-29
+21004,,60,43,36,-75,88
+21005,,60,43,37,17,-58
+21006,,60,43,38,-84,-62
+21007,,60,44,37,-53,64
+21008,,60,44,39,-34,-22
+21009,,60,45,36,-88,96
+21010,,60,45,37,-48,82
+21011,,60,45,39,82,18
+21021,,60,44,36,48.9,91.352
+21022,,60,45,37,-30.535,53.865
+21023,,60,43,38,-26.54,35.82
+21024,,60,43,39,88.99,96.707
+21025,,60,43,37,36.38,41.32
+21026,,60,44,37,-53,64

@@ -1,0 +1,159 @@
+{
+    "mode": "video",
+    "screen_crop": {
+        "normal": [
+            1450,
+            230,
+            997,
+            997
+        ],
+        "video": [
+            1273,
+            255,
+            870,
+            870
+        ],
+        "debug": [
+            1273,
+            256,
+            868,
+            868
+        ]
+    },
+    "show_anchor_labels": true,
+    "save_debug": false,
+    "hotkeys": {
+        "detect": "f8",
+        "toggle": "m",
+        "gamepad_button": 6,
+        "hide_button": 1
+    },
+    "display": {
+        "sidebar": false,
+        "pos": false,
+        "long_id": false,
+        "short_id": false,
+        "name": true,
+        "show_icons": false,
+        "stats": true,
+        "stats_font": 14
+    },
+    "style": {
+        "poi": {
+            "color": [
+                200,
+                220,
+                150
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "blood": {
+            "color": [
+                255,
+                255,
+                0
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "boss": {
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "boss_strong": {
+            "color": [
+                255,
+                80,
+                80
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "jail": {
+            "color": [
+                110,
+                170,
+                255
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "castle": {
+            "color": [
+                255,
+                255,
+                0
+            ],
+            "outline": [
+                0,
+                0,
+                0
+            ],
+            "size": 16,
+            "offset": [
+                0,
+                0
+            ]
+        },
+        "label_offset": [
+            0,
+            -5
+        ],
+        "hl_weak": [
+            255,
+            0,
+            0
+        ],
+        "hl_resist": [
+            85,
+            85,
+            255
+        ]
+    }
+}

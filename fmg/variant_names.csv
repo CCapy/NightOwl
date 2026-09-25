@@ -1,0 +1,174 @@
+﻿type,name_en,name_zh,name_id
+45511,Black Knife Assassin,黑刀刺客,902100600
+45513,Frenzied Duelist,发狂斗士,903400301
+45514,Outrider Knight,征战骑士,904978000
+46511,Red Wolf of the King Consort,王夫的红狼,903181300
+46512,Miranda Blossom,米兰达之花,904480311
+46513,Miranda Blossom,米兰达之花,904480311
+46514,Miranda Blossom,米兰达之花,904480311
+46515,Miranda Blossom,米兰达之花,904480311
+46516,Demi-Human Queen,亚人女王,904130700
+46521,Draconic Tree Sentinel,龙装大树守卫,903250600
+46522,,,904640100
+46523,,,904811000
+46524,Royal Carian Knight,卡利亚禁卫骑士,903253500
+46531,Tree Sentinel,大树守卫,903251600
+46532,Crucible Knight,熔炉骑士,902500300
+46533,Crucible Knight,熔炉骑士,902500300
+46534,Crucible Knight,熔炉骑士,902500300
+46541,Ancient Dragon,古龙,904510601
+46542,Mountaintop Ice Dragon,山顶冰龙,904503600
+46543,Decaying Rancor Dragon,步入腐败仇恨龙,904501600
+46544,Nox Dragonkin Soldier,诺克斯的龙人士兵,904650600
+46551,Leonine Misbegotten,狮子混种,903460500
+46552,Erdtree Burial Watchdog,归树看门犬,904260307
+46553,Erdtree Burial Watchdog,归树看门犬,904260307
+46554,Erdtree Burial Watchdog,归树看门犬,904260307
+46561,Bell Bearing Hunter,铃珠猎人,903100600
+46562,Valiant Gargoyle,英雄石像鬼,904770000
+46563,Outland Commander,偏地老将,903050500
+46571,Golden Hippopotamus,黄金河马,905011000
+46572,Troll Knight,骑士山妖,904601000
+46573,Night's Cavalry,黑夜骑兵,903150600
+46581,Flying Dragon of the Hills,丘陵飞龙,904500600
+46582,,,905860000
+46583,Magma Wyrm,熔岩土龙,904910320
+46584,Lake Glintstone Dragon,湖之辉石龙,904502600
+46591,Elder Lion,老狮子,904270600
+46592,Abductor Virgins,掳人少女人偶们,904470003
+46593,Wormface,蚯蚓脸,904580600
+46621,Lordsworn Knights,君王军骑士们,904311001
+46622,Cuckoo Knights,杜鹃骑士们,904311002
+46623,Royal Army Knights,罗德尔骑士们,904311003
+46624,Redmane Knights,红狮子骑士们,904311004
+46625,Mausoleum Knights,灵庙骑士们,904311006
+46626,Haligtree Knights,圣树骑士们,904311005
+46631,Ulcerated Tree Spirit,腐烂树灵,904640000
+46632,White Runebear,白色卢恩熊,904630320
+46633,Night's Cavalry Duo (Dismounted),黑夜骑兵们（已下马）,903150610
+46641,Ancestor Spirit,祖灵,904670000
+46642,,,905250600
+46643,,,905250600
+46644,,,905250600
+46651,Ancient Hero of Zamor,萨米尔的古英雄,907100300
+46652,,,903800600
+46653,Skeletal Gladiator,弗雷德利克,904580620
+46661,Black Blade Kindred,黑剑眷属,904770001
+46662,,,905820600
+46663,,,905210600
+46671,Erdtree Avatar,黄金树的化身,904810600
+46672,Hollow Manservant (Slashy),红袍活尸（斩击）,904130730
+46673,Hollow Manservant (Bashy),红袍活尸（打击）,904130720
+46674,Hollow Manservant (Crashy),红袍活尸（撞击）,904130740
+46681,Godskin Apostle,神皮使徒,903560000
+46682,Godskin Noble,神皮贵族,903570000
+46683,Dragonkin Soldier,龙人士兵,904650601
+46691,Grafted Scion,“接肢”贵族后裔,904690000
+46692,Misbegotten Crusader,混种圣骑士,903460600
+46693,Rotten Duelist,腐败守墓斗士,903400302
+46694,,,905250610
+46695,Corvian Knight,鸦人骑士,904976000
+46696,Corvian Knight,鸦人骑士,904976000
+46701,Dragonkin Soldier,龙人士兵,904650601
+46702,Godskin Apostle,神皮使徒,903560000
+46703,Godskin Noble,神皮贵族,903570000
+46704,Crucible Knight,熔炉骑士,902500301
+46705,Crucible Knight,熔炉骑士,902500301
+46706,Crucible Knight,熔炉骑士,902500301
+46711,,,903800710
+46712,,,903800710
+46713,,,903800700
+46714,Royal Revenant,王室幽魂,904020540
+46721,Demi-Human Swordmaster,亚人剑圣,905810000
+46722,,,905040000
+46723,,,905070000
+46724,,,905070000
+46741,Godskin Duo,神皮双人组,903575000
+46742,Death Rite Bird,死亡仪式鸟,904980600
+46743,Fallingstar Beast,坠星兽物,904680320
+46751,Ancient Dragon,古龙,904510601
+46752,Mountaintop Ice Dragon,山顶冰龙,904503600
+46753,Decaying Rancor Dragon,步入腐败仇恨龙,904501600
+46754,Nox Dragonkin Soldier,诺克斯的龙人士兵,904650600
+46761,Flying Dragon of the Hills,丘陵飞龙,904500600
+46762,,,905860000
+46763,Magma Wyrm,熔岩土龙,904910320
+46764,Lake Glintstone Dragon,湖之辉石龙,904502600
+46771,,,905081001
+46772,,,905320001
+46773,Runebear,卢恩熊,904630310
+46774,Red Wolf of the Champion,英雄红狼,903181400
+46811,Black Knife Assassin,黑刀刺客,902100600
+46812,Frenzied Duelist,发狂斗士,903400301
+46813,Rotten Duelist,腐败守墓斗士,903400302
+46814,,,905070000
+46821,Red Wolf of the King Consort,王夫的红狼,903181300
+46822,Corvian Knight,鸦人骑士,904976000
+46823,Elder Lion,老狮子,904270600
+46824,Bloodhound Knight,猎犬骑士,904290310
+46861,Leonine Misbegotten,狮子混种,903460500
+46862,Misbegotten Crusader,混种圣骑士,903460600
+46863,,,905320000
+46864,Skeletal Gladiator,弗雷德利克,904580620
+46871,Bell Bearing Hunter,铃珠猎人,903100600
+46872,Erdtree Burial Watchdog,归树看门犬,904260307
+46873,Erdtree Burial Watchdog,归树看门犬,904260307
+46874,Erdtree Burial Watchdog,归树看门犬,904260307
+46881,Royal Revenant,王室幽魂,904020540
+46882,,,903800710
+46883,,,903800710
+46884,,,903800700
+46911,Grafted Scion,“接肢”贵族后裔,904690000
+46912,Hollow Manservant (Bashy),红袍活尸（打击）,904130720
+46913,Outrider Knight,征战骑士,904978000
+46914,,,905040000
+46951,Ancient Hero of Zamor,萨米尔的古英雄,907100300
+46952,Crucible Knight,熔炉骑士,902500300
+46953,Crucible Knight,熔炉骑士,902500300
+46954,,,903800600
+46955,Crucible Knight,熔炉骑士,902500300
+48001,The Duke's Dear Freja,公爵的夫雷迪亚,907800000
+49101,Grafted Monarch,“接肢”君王,904750000
+49501,Lord of the Old Order,老旧律法之王,903050900
+49511,Golden Hippopotamus,黄金河马,905011000
+49521,,,905860000
+49531,Dragonslayer Armor,猎龙铠甲,904973000
+49541,,,903800800
+49551,Lichdragon,死龙,904510603
+49561,Starscourge General,碎星将军,904956000
+49571,Twin Moon Knight,双月骑士,904957000
+49581,Fire Demon,火焰恶魔,904975000
+49591,Lord of Frenzied Flame,癫火之王,904959000
+49601,Regal Ancestor Spirit,祖灵之王,904960000
+49611,Moonlit Glintstone Dragon,月光辉石龙,904503700
+49621,The Black Blade,黑剑,904972000
+49631,Father of the Abyss,深渊之主,904974000
+49641,Wild Boar Rider,野猪骑士,904964000
+49651,Mother of Fingers,指头之母,904965000
+49661,Slave Knight,奴隶骑士,904970000
+49662,Slave Knight,奴隶骑士,904970000
+49671,The Impaler,穿刺者,904967000
+49681,Queen of the Full Moon,满月女王,904968000
+49691,Undefeated Valkyrie,战无不胜的女武神,904969000
+49701,,,905250601
+49702,,,903800702
+49711,,,903800712
+49712,,,903800712
+49721,,,903800700
+49722,,,903800700
+49723,,,903800700
+49731,Crucible Knight (Sword),熔炉骑士（剑盾）,902500312
+49732,Crucible Knight (Sword),熔炉骑士（剑盾）,902500312
+49733,Crucible Knight (Sword),熔炉骑士（剑盾）,902500312
+49741,Thundering Gargoyle,雷霆石像鬼,904770002
+49742,Thundering Gargoyle,雷霆石像鬼,904770002
+49761,,,905250601
+49771,Watchdog of the Boreal Valley,冷冽谷的玻尔多,907920001
+49781,Demon Gatekeeper,鬼庭形部雅孝,903251601
+49791,Bloodstained Martyr,染血殉道者,903050501
+49801,Giant-Conquering Hero of Zamor,巨人山顶的萨米尔古英雄,907100301
+49811,Ashen Champion,,904979000
+49821,,,905312000
+49831,Lord of the Golden Order,,902190000
+49841,Darkbeast,%null%,903050502
+49851,Moon Presence,月之血姬,904979100

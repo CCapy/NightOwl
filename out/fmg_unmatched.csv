@@ -1,0 +1,545 @@
+﻿id,name
+100,[Gnoster]
+101,[Gnoster]
+103,[Gnoster]
+104,[Gnoster]
+106,[Gnoster]
+107,[Gnoster]
+108,[Gnoster]
+109,[Gnoster]
+110,[Gnoster]
+111,[Gnoster]
+112,[Gnoster]
+113,[Gnoster]
+114,[Gnoster]
+116,[Gnoster]
+117,[Gnoster]
+120,[Maris]
+121,[Maris]
+122,[Maris]
+123,[Maris]
+124,[Maris]
+125,[Maris]
+126,[Maris]
+127,[Maris]
+128,[Maris]
+129,[Maris]
+190,[Libra]
+220,[Fulghor]
+300,[Heolstor]
+301,[Heolstor]
+302,[Heolstor]
+305,[Heolstor]
+306,[Heolstor]
+307,[Heolstor]
+308,[Heolstor]
+309,[Heolstor]
+310,[Heolstor]
+312,[Heolstor]
+313,[Heolstor]
+314,[Heolstor]
+315,[Heolstor]
+316,[Heolstor]
+317,[Heolstor]
+318,[Heolstor]
+319,[Heolstor]
+320,[Gladius] Rotted Woods
+321,[Gladius] Rotted Woods
+322,[Gladius] Rotted Woods
+350,[Gladius] Shrouded City
+351,[Gladius] Shrouded City
+352,[Gladius] Shrouded City
+356,[Gladius] Shrouded City
+357,[Gladius] Shrouded City
+358,[Gladius] Shrouded City
+360,[Gladius] Shrouded City
+362,[Gladius] Shrouded City
+364,[Gladius] Shrouded City
+500,[Adel] Standard
+505,[Adel] Standard
+521,[Adel] Standard
+522,[Adel] Standard
+523,[Adel] Standard
+524,[Adel] Standard
+525,[Adel] Standard
+526,[Adel] Standard
+527,[Adel] Standard
+528,[Adel] Standard
+529,[Adel] Standard
+530,[Adel] Standard
+532,[Adel] Standard
+533,[Adel] Standard
+534,[Adel] Standard
+535,[Adel] Standard
+536,[Adel] Standard
+541,[Adel] Standard
+542,[Adel] Standard
+543,[Adel] Standard
+544,[Adel] Standard
+545,[Adel] Standard
+546,[Adel] Standard
+547,[Adel] Standard
+548,[Adel] Standard
+549,[Adel] Standard
+551,[Adel] Standard
+552,[Adel] Standard
+553,[Adel] Standard
+554,[Adel] Standard
+555,[Adel] Standard
+556,[Adel] Standard
+561,[Adel] Standard
+562,[Adel] Standard
+563,[Adel] Standard
+564,[Adel] Standard
+565,[Adel] Standard
+566,[Adel] Standard
+567,[Adel] Standard
+568,[Adel] Standard
+569,[Adel] Standard
+570,[Adel] Standard
+573,[Adel] Standard
+574,[Adel] Standard
+576,[Adel] Standard
+577,[Adel] Standard
+580,[Adel] Standard
+581,[Adel] Standard
+582,[Adel] Standard
+583,[Adel] Standard
+584,[Adel] Standard
+585,[Adel] Standard
+586,[Adel] Standard
+587,[Adel] Standard
+588,[Adel] Standard
+589,[Adel] Standard
+590,[Adel] Standard
+591,[Adel] Standard
+592,[Adel] Standard
+593,[Adel] Standard
+594,[Adel] Standard
+595,[Adel] Standard
+596,[Adel] Standard
+601,[Adel]
+602,[Adel]
+603,[Adel]
+604,[Adel]
+605,[Adel]
+606,[Adel]
+607,[Adel]
+615,[Adel]
+616,[Adel]
+617,[Adel]
+618,[Adel]
+619,[Adel]
+620,[Adel]
+621,[Adel]
+622,[Adel]
+623,[Adel]
+624,[Adel]
+625,[Adel]
+626,[Adel]
+627,[Adel]
+628,[Adel]
+629,[Adel]
+630,[Adel]
+631,[Adel]
+632,[Adel]
+633,[Adel]
+634,[Adel]
+635,[Adel]
+636,[Adel]
+637,[Adel]
+638,[Adel]
+639,[Adel]
+640,[Adel]
+641,[Adel]
+642,[Adel]
+643,[Adel]
+644,[Adel]
+645,[Adel]
+646,[Adel]
+647,[Adel]
+648,[Adel]
+649,[Adel]
+650,[Adel]
+651,[Adel]
+652,[Adel]
+653,[Adel]
+654,[Adel]
+655,[Adel]
+656,[Adel]
+657,[Adel]
+658,[Adel]
+659,[Adel]
+660,[Adel]
+661,[Adel]
+662,[Adel]
+700,[Adel]
+701,[Adel]
+702,[Adel]
+703,[Adel]
+704,[Adel]
+705,[Adel]
+706,[Adel]
+707,[Adel]
+708,[Adel]
+710,[Adel]
+711,[Adel]
+712,[Adel]
+713,[Adel]
+715,[Adel]
+716,[Adel]
+717,[Adel]
+718,[Adel]
+750,[Adel]
+753,[Adel]
+754,[Adel]
+755,[Adel]
+756,[Adel]
+757,[Adel]
+758,[Adel]
+759,[Adel]
+760,[Adel]
+761,[Adel]
+762,[Adel]
+763,[Adel]
+800,[Gnoster]
+801,[Gnoster]
+1000,Gatefront
+1001,[Gladius] Standard (DLC)
+1002,[Gladius] Standard (DLC)
+1003,[Gladius] Standard (DLC)
+1004,[Gladius] Standard (DLC)
+1005,[Gladius] Great Hollow (DLC)
+1006,[Gladius] Great Hollow (DLC)
+1007,[Gladius] Great Hollow (DLC)
+1008,[Gladius] Great Hollow (DLC)
+1009,[Gladius] Great Hollow (DLC)
+1010,Groveside
+1011,[Adel]
+1021,[Gnoster]
+1022,[Gnoster]
+1023,[Gnoster]
+1024,[Gnoster]
+1025,[Gnoster]
+1103,[Harmonia]
+1107,[Harmonia]
+1108,[Harmonia]
+1109,[Harmonia]
+1110,Northwest Mistwood
+1111,[Harmonia]
+1112,[Harmonia]
+1113,[Harmonia]
+1114,[Harmonia]
+1115,[Harmonia]
+1116,[Harmonia]
+1135,[Harmonia]
+1136,[Harmonia]
+1137,[Harmonia]
+1138,[Harmonia]
+1139,[Harmonia]
+1140,Minor Erdtree
+1141,[Straghess]
+1142,[Straghess]
+1143,[Straghess]
+1144,[Straghess]
+1145,[Straghess]
+1146,[Straghess]
+1147,[Straghess]
+1148,[Straghess]
+1150,[Straghess]
+1151,[Straghess]
+1152,[Straghess]
+1153,[Straghess]
+1154,[Straghess]
+1155,[Straghess]
+1156,[Straghess]
+1157,[Straghess]
+1158,[Straghess]
+1159,[Straghess]
+1160,Northeast Mistwood
+1161,[Straghess]
+1162,[Straghess]
+1163,[Straghess]
+1164,[Straghess]
+1165,[Straghess]
+1166,[Straghess]
+1170,Summonwater
+1171,[Straghess]
+1172,[Straghess]
+1173,[Straghess]
+1174,[Straghess]
+1175,[Straghess]
+1176,[Straghess]
+1200,Stormhill North of Gate
+1201,[Maris]
+1202,[Maris]
+1210,Groveside
+1211,[Maris]
+1212,[Maris]
+1213,[Maris]
+2100,[Fulghor]
+2101,[Fulghor]
+2103,[Fulghor]
+2104,[Fulghor]
+2106,[Fulghor]
+2107,[Fulghor]
+2108,[Fulghor]
+2109,[Fulghor]
+2110,[Fulghor]
+2111,[Fulghor]
+2112,[Fulghor]
+2113,[Fulghor]
+2114,[Fulghor]
+2116,[Fulghor]
+2117,[Fulghor]
+2120,[Fulghor]
+2121,[Fulghor]
+2122,[Fulghor]
+2123,[Fulghor]
+2124,[Fulghor]
+2125,[Fulghor]
+2126,[Fulghor]
+2127,[Fulghor]
+2128,[Fulghor]
+2129,[Fulghor]
+2190,[Fulghor]
+2300,[Fulghor]
+2301,[Fulghor]
+2302,[Fulghor]
+2305,[Fulghor]
+2306,[Fulghor]
+2307,[Fulghor]
+2308,[Fulghor]
+2309,[Fulghor]
+2310,[Fulghor]
+2312,[Fulghor]
+2313,[Fulghor]
+2314,[Fulghor]
+2315,[Fulghor]
+2316,[Fulghor]
+2317,[Fulghor]
+2318,[Fulghor]
+2319,[Fulghor]
+2320,[Fulghor]
+2321,[Fulghor]
+2322,[Fulghor]
+2350,[Fulghor]
+2351,[Fulghor]
+2352,[Fulghor]
+2356,[Fulghor]
+2357,[Fulghor]
+2358,[Fulghor]
+2360,[Fulghor]
+2362,[Fulghor]
+2364,[Fulghor]
+2520,[Caligo]
+2521,[Caligo]
+2522,[Caligo]
+2523,[Caligo]
+2524,[Caligo]
+2525,[Caligo]
+2526,[Caligo]
+2527,[Caligo]
+2528,[Caligo]
+2529,[Caligo]
+2530,[Caligo]
+2531,[Caligo]
+2532,[Caligo]
+2533,[Caligo]
+2534,[Caligo]
+2535,[Caligo]
+2536,[Caligo]
+2540,[Caligo]
+2541,[Caligo]
+2542,[Caligo]
+2543,[Caligo]
+2544,[Caligo]
+2545,[Caligo]
+2546,[Caligo]
+2547,[Caligo]
+2548,[Caligo]
+2549,[Caligo]
+2550,[Caligo]
+2553,[Caligo]
+2555,[Caligo]
+2556,[Caligo]
+2561,[Caligo]
+2562,[Caligo]
+2563,[Caligo]
+2564,[Caligo]
+2565,[Caligo]
+2567,[Caligo]
+2568,[Caligo]
+2569,[Caligo]
+2570,[Caligo]
+2574,[Caligo]
+2580,[Caligo]
+2581,[Caligo]
+2582,[Caligo]
+2583,[Caligo]
+2584,[Caligo]
+2585,[Caligo]
+2586,[Caligo]
+2587,[Caligo]
+2588,[Caligo]
+2589,[Caligo]
+2590,[Caligo]
+2601,[Caligo]
+2602,[Caligo]
+2603,[Caligo]
+2604,[Caligo]
+2605,[Caligo]
+2606,[Caligo]
+2607,[Caligo]
+2615,[Caligo]
+2616,[Caligo]
+2617,[Caligo]
+2618,[Caligo]
+2619,[Caligo]
+2620,[Caligo]
+2628,[Caligo]
+2629,[Caligo]
+2630,[Caligo]
+2631,[Caligo]
+2632,[Caligo]
+2640,[Caligo]
+2641,[Caligo]
+2642,[Caligo]
+2643,[Caligo]
+2644,[Caligo]
+2645,[Caligo]
+2646,[Caligo]
+2647,[Caligo]
+2648,[Caligo]
+2649,[Caligo]
+2650,[Caligo]
+2651,[Caligo]
+2652,[Caligo]
+2653,[Caligo]
+2654,[Caligo]
+2656,[Caligo]
+2657,[Caligo]
+2658,[Caligo]
+2659,[Caligo]
+2661,[Caligo]
+2662,[Caligo]
+2710,[Caligo]
+2711,[Caligo]
+2712,[Caligo]
+2713,[Caligo]
+2714,[Caligo]
+2715,[Caligo]
+2716,[Caligo]
+2717,[Caligo]
+2718,[Caligo]
+2750,[Caligo]
+2753,[Caligo]
+2754,[Caligo]
+2755,[Caligo]
+2756,[Caligo]
+2757,[Caligo]
+2758,[Caligo]
+2759,[Caligo]
+2760,[Caligo]
+2761,[Caligo]
+2762,[Caligo]
+2763,[Caligo]
+3000,Far Southwest
+3010,Stormhill South of Gate
+3020,West of Warmaster's Shack
+3030,Fort B (Sewer Fort)
+3080,East of Cavalry Bridge
+3090,Center West
+3100,Northeast of Saintsbridge
+3500,Far Southwest
+3600,Northeast of Saintsbridge
+4950,Night Boss - Godfrey phase 1
+4954,Night Boss - Romina
+4956,Night Boss - Starscourge Radahn
+4957,Night Boss - Rellana
+4959,Night Boss - Midra
+4961,Night Boss - Adula
+4962,Night Boss - Maliketh
+4964,Night Boss - Gaius
+4966,Night Boss - Gael
+4967,Night Boss - Messmer phase 1
+4968,Night Boss - Rennala phase 2
+4969,Night Boss - Malenia phase 1
+4971,Night Boss - Black knights
+4972,Night Boss - Fire knights
+4974,Night Boss - Valiant gargoyle duo
+4975,Night Boss - E33
+4978,Night Boss - Gyoubu
+4979,Night Boss - Logarius
+8000,Southwest Corner
+8001,
+8002,
+8003,
+8004,
+8005,
+8006,
+8007,
+8008,
+8009,
+8010,West Stormhill Graveyard
+8011,
+11000,[Great Hollow]
+11001,[Great Hollow]
+11002,[Great Hollow]
+12000,[Great Hollow] Divine Tower
+12001,[Great Hollow] Divine Tower
+13000,
+13001,
+13002,
+20000,Groveside
+20100,Gatefront
+20300,Northwest Stormhill
+20400,South Lake
+20500,Alexander Spot
+20600,Northeast Stormhill
+20800,West Mistwood
+20900,Northwest Mistwood
+21000,Artist's Shack
+21100,Summonwater Approach
+21200,South Mistwood
+21300,Minor Erdtree
+21400,Northeast Mistwood
+21500,Summonwater
+40101,Incantation Rise A
+40102,Incantation Rise A
+40103,Incantation Rise A
+46000,Trolls and Soldiers
+46010,Caelid Wildlife
+46030,Fingercreepers
+46060,Revenant Followers
+46762,
+46780,Morgott
+51000,Church - Great Hollow
+51050,Small Camp - Great Hollow
+51051,Small Camp - Great Hollow
+51150,Caravans - Great Hollow
+53000,Boss Raid - Tricephalos (Gladius)
+53050,Boss Raid - Fissure in the Fog (Caligo)
+53510,Western Underground Fort (Main) - Magic
+53520,Western Underground Fort (Underground) - Omenkillers
+53570,Western Underground Fort (Icon) - Magic
+53620,Western Underground Fort (Outside) - Fire Knights
+53630,Western Underground Fort (Outside) - Blackflame Monks
+53640,
+53810,
+53820,Eastern Underground Fort (Icon) - Holy
+53830,
+53860,
+53870,
+53880,
+53890,
+53900,
+53910,
+53990,
+1038400230,
+1044360220,
+1044380230,
+1046300590,
+1046400230,
+1047300590,
+1057300590,

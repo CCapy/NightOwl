@@ -1,0 +1,916 @@
+﻿id,name,zh
+100,[Gnoster],
+101,[Gnoster],
+103,[Gnoster],
+104,[Gnoster],
+106,[Gnoster],
+107,[Gnoster],
+108,[Gnoster],
+109,[Gnoster],
+110,[Gnoster],
+111,[Gnoster],
+112,[Gnoster],
+113,[Gnoster],
+114,[Gnoster],
+116,[Gnoster],
+117,[Gnoster],
+120,[Maris],
+121,[Maris],
+122,[Maris],
+123,[Maris],
+124,[Maris],
+125,[Maris],
+126,[Maris],
+127,[Maris],
+128,[Maris],
+129,[Maris],
+190,[Libra],
+220,[Fulghor],
+300,[Heolstor],
+301,[Heolstor],
+302,[Heolstor],
+305,[Heolstor],
+306,[Heolstor],
+307,[Heolstor],
+308,[Heolstor],
+309,[Heolstor],
+310,[Heolstor],
+312,[Heolstor],
+313,[Heolstor],
+314,[Heolstor],
+315,[Heolstor],
+316,[Heolstor],
+317,[Heolstor],
+318,[Heolstor],
+319,[Heolstor],
+320,[Gladius] Rotted Woods,
+321,[Gladius] Rotted Woods,
+322,[Gladius] Rotted Woods,
+350,[Gladius] Shrouded City,
+351,[Gladius] Shrouded City,
+352,[Gladius] Shrouded City,
+356,[Gladius] Shrouded City,
+357,[Gladius] Shrouded City,
+358,[Gladius] Shrouded City,
+360,[Gladius] Shrouded City,
+362,[Gladius] Shrouded City,
+364,[Gladius] Shrouded City,
+500,[Adel] Standard,
+505,[Adel] Standard,
+510,[Adel] Standard,冰雾笼罩
+520,[Adel] Standard,火焰野兽
+521,[Adel] Standard,
+522,[Adel] Standard,
+523,[Adel] Standard,
+524,[Adel] Standard,
+525,[Adel] Standard,
+526,[Adel] Standard,
+527,[Adel] Standard,
+528,[Adel] Standard,
+529,[Adel] Standard,
+530,[Adel] Standard,
+532,[Adel] Standard,
+533,[Adel] Standard,
+534,[Adel] Standard,
+535,[Adel] Standard,
+536,[Adel] Standard,
+540,[Adel] Standard,巨大水泡
+541,[Adel] Standard,
+542,[Adel] Standard,
+543,[Adel] Standard,
+544,[Adel] Standard,
+545,[Adel] Standard,
+546,[Adel] Standard,
+547,[Adel] Standard,
+548,[Adel] Standard,
+549,[Adel] Standard,
+550,[Adel] Standard,虫群
+551,[Adel] Standard,
+552,[Adel] Standard,
+553,[Adel] Standard,
+554,[Adel] Standard,
+555,[Adel] Standard,
+556,[Adel] Standard,
+560,[Adel] Standard,恶魔诅咒
+561,[Adel] Standard,
+562,[Adel] Standard,
+563,[Adel] Standard,
+564,[Adel] Standard,
+565,[Adel] Standard,
+566,[Adel] Standard,
+567,[Adel] Standard,
+568,[Adel] Standard,
+569,[Adel] Standard,
+570,[Adel] Standard,
+573,[Adel] Standard,
+574,[Adel] Standard,
+576,[Adel] Standard,
+577,[Adel] Standard,
+580,[Adel] Standard,
+581,[Adel] Standard,
+582,[Adel] Standard,
+583,[Adel] Standard,
+584,[Adel] Standard,
+585,[Adel] Standard,
+586,[Adel] Standard,
+587,[Adel] Standard,
+588,[Adel] Standard,
+589,[Adel] Standard,
+590,[Adel] Standard,
+591,[Adel] Standard,
+592,[Adel] Standard,
+593,[Adel] Standard,
+594,[Adel] Standard,
+595,[Adel] Standard,
+596,[Adel] Standard,
+601,[Adel],
+602,[Adel],
+603,[Adel],
+604,[Adel],
+605,[Adel],
+606,[Adel],
+607,[Adel],
+615,[Adel],
+616,[Adel],
+617,[Adel],
+618,[Adel],
+619,[Adel],
+620,[Adel],
+621,[Adel],
+622,[Adel],
+623,[Adel],
+624,[Adel],
+625,[Adel],
+626,[Adel],
+627,[Adel],
+628,[Adel],
+629,[Adel],
+630,[Adel],
+631,[Adel],
+632,[Adel],
+633,[Adel],
+634,[Adel],
+635,[Adel],
+636,[Adel],
+637,[Adel],
+638,[Adel],
+639,[Adel],
+640,[Adel],
+641,[Adel],
+642,[Adel],
+643,[Adel],
+644,[Adel],
+645,[Adel],
+646,[Adel],
+647,[Adel],
+648,[Adel],
+649,[Adel],
+650,[Adel],
+651,[Adel],
+652,[Adel],
+653,[Adel],
+654,[Adel],
+655,[Adel],
+656,[Adel],
+657,[Adel],
+658,[Adel],
+659,[Adel],
+660,[Adel],
+661,[Adel],
+662,[Adel],
+700,[Adel],
+701,[Adel],
+702,[Adel],
+703,[Adel],
+704,[Adel],
+705,[Adel],
+706,[Adel],
+707,[Adel],
+708,[Adel],
+710,[Adel],
+711,[Adel],
+712,[Adel],
+713,[Adel],
+715,[Adel],
+716,[Adel],
+717,[Adel],
+718,[Adel],
+750,[Adel],
+753,[Adel],
+754,[Adel],
+755,[Adel],
+756,[Adel],
+757,[Adel],
+758,[Adel],
+759,[Adel],
+760,[Adel],
+761,[Adel],
+762,[Adel],
+763,[Adel],
+800,[Gnoster],
+801,[Gnoster],
+1000,Gatefront,
+1001,[Gladius] Standard (DLC),
+1002,[Gladius] Standard (DLC),
+1003,[Gladius] Standard (DLC),
+1004,[Gladius] Standard (DLC),
+1005,[Gladius] Great Hollow (DLC),
+1006,[Gladius] Great Hollow (DLC),
+1007,[Gladius] Great Hollow (DLC),
+1008,[Gladius] Great Hollow (DLC),
+1009,[Gladius] Great Hollow (DLC),
+1010,Groveside,
+1011,[Adel],
+1021,[Gnoster],
+1022,[Gnoster],
+1023,[Gnoster],
+1024,[Gnoster],
+1025,[Gnoster],
+1103,[Harmonia],
+1107,[Harmonia],
+1108,[Harmonia],
+1109,[Harmonia],
+1110,Northwest Mistwood,
+1111,[Harmonia],
+1112,[Harmonia],
+1113,[Harmonia],
+1114,[Harmonia],
+1115,[Harmonia],
+1116,[Harmonia],
+1135,[Harmonia],
+1136,[Harmonia],
+1137,[Harmonia],
+1138,[Harmonia],
+1139,[Harmonia],
+1140,Minor Erdtree,
+1141,[Straghess],
+1142,[Straghess],
+1143,[Straghess],
+1144,[Straghess],
+1145,[Straghess],
+1146,[Straghess],
+1147,[Straghess],
+1148,[Straghess],
+1150,[Straghess],
+1151,[Straghess],
+1152,[Straghess],
+1153,[Straghess],
+1154,[Straghess],
+1155,[Straghess],
+1156,[Straghess],
+1157,[Straghess],
+1158,[Straghess],
+1159,[Straghess],
+1160,Northeast Mistwood,
+1161,[Straghess],
+1162,[Straghess],
+1163,[Straghess],
+1164,[Straghess],
+1165,[Straghess],
+1166,[Straghess],
+1170,Summonwater,
+1171,[Straghess],
+1172,[Straghess],
+1173,[Straghess],
+1174,[Straghess],
+1175,[Straghess],
+1176,[Straghess],
+1200,Stormhill North of Gate,
+1201,[Maris],
+1202,[Maris],
+1210,Groveside,
+1211,[Maris],
+1212,[Maris],
+1213,[Maris],
+2100,[Fulghor],
+2101,[Fulghor],
+2103,[Fulghor],
+2104,[Fulghor],
+2106,[Fulghor],
+2107,[Fulghor],
+2108,[Fulghor],
+2109,[Fulghor],
+2110,[Fulghor],
+2111,[Fulghor],
+2112,[Fulghor],
+2113,[Fulghor],
+2114,[Fulghor],
+2116,[Fulghor],
+2117,[Fulghor],
+2120,[Fulghor],
+2121,[Fulghor],
+2122,[Fulghor],
+2123,[Fulghor],
+2124,[Fulghor],
+2125,[Fulghor],
+2126,[Fulghor],
+2127,[Fulghor],
+2128,[Fulghor],
+2129,[Fulghor],
+2190,[Fulghor],
+2300,[Fulghor],
+2301,[Fulghor],
+2302,[Fulghor],
+2305,[Fulghor],
+2306,[Fulghor],
+2307,[Fulghor],
+2308,[Fulghor],
+2309,[Fulghor],
+2310,[Fulghor],
+2312,[Fulghor],
+2313,[Fulghor],
+2314,[Fulghor],
+2315,[Fulghor],
+2316,[Fulghor],
+2317,[Fulghor],
+2318,[Fulghor],
+2319,[Fulghor],
+2320,[Fulghor],
+2321,[Fulghor],
+2322,[Fulghor],
+2350,[Fulghor],
+2351,[Fulghor],
+2352,[Fulghor],
+2356,[Fulghor],
+2357,[Fulghor],
+2358,[Fulghor],
+2360,[Fulghor],
+2362,[Fulghor],
+2364,[Fulghor],
+2520,[Caligo],
+2521,[Caligo],
+2522,[Caligo],
+2523,[Caligo],
+2524,[Caligo],
+2525,[Caligo],
+2526,[Caligo],
+2527,[Caligo],
+2528,[Caligo],
+2529,[Caligo],
+2530,[Caligo],
+2531,[Caligo],
+2532,[Caligo],
+2533,[Caligo],
+2534,[Caligo],
+2535,[Caligo],
+2536,[Caligo],
+2540,[Caligo],
+2541,[Caligo],
+2542,[Caligo],
+2543,[Caligo],
+2544,[Caligo],
+2545,[Caligo],
+2546,[Caligo],
+2547,[Caligo],
+2548,[Caligo],
+2549,[Caligo],
+2550,[Caligo],
+2553,[Caligo],
+2555,[Caligo],
+2556,[Caligo],
+2561,[Caligo],
+2562,[Caligo],
+2563,[Caligo],
+2564,[Caligo],
+2565,[Caligo],
+2567,[Caligo],
+2568,[Caligo],
+2569,[Caligo],
+2570,[Caligo],
+2574,[Caligo],
+2580,[Caligo],
+2581,[Caligo],
+2582,[Caligo],
+2583,[Caligo],
+2584,[Caligo],
+2585,[Caligo],
+2586,[Caligo],
+2587,[Caligo],
+2588,[Caligo],
+2589,[Caligo],
+2590,[Caligo],
+2601,[Caligo],
+2602,[Caligo],
+2603,[Caligo],
+2604,[Caligo],
+2605,[Caligo],
+2606,[Caligo],
+2607,[Caligo],
+2615,[Caligo],
+2616,[Caligo],
+2617,[Caligo],
+2618,[Caligo],
+2619,[Caligo],
+2620,[Caligo],
+2628,[Caligo],
+2629,[Caligo],
+2630,[Caligo],
+2631,[Caligo],
+2632,[Caligo],
+2640,[Caligo],
+2641,[Caligo],
+2642,[Caligo],
+2643,[Caligo],
+2644,[Caligo],
+2645,[Caligo],
+2646,[Caligo],
+2647,[Caligo],
+2648,[Caligo],
+2649,[Caligo],
+2650,[Caligo],
+2651,[Caligo],
+2652,[Caligo],
+2653,[Caligo],
+2654,[Caligo],
+2656,[Caligo],
+2657,[Caligo],
+2658,[Caligo],
+2659,[Caligo],
+2661,[Caligo],
+2662,[Caligo],
+2710,[Caligo],
+2711,[Caligo],
+2712,[Caligo],
+2713,[Caligo],
+2714,[Caligo],
+2715,[Caligo],
+2716,[Caligo],
+2717,[Caligo],
+2718,[Caligo],
+2750,[Caligo],
+2753,[Caligo],
+2754,[Caligo],
+2755,[Caligo],
+2756,[Caligo],
+2757,[Caligo],
+2758,[Caligo],
+2759,[Caligo],
+2760,[Caligo],
+2761,[Caligo],
+2762,[Caligo],
+2763,[Caligo],
+3000,Far Southwest,
+3010,Stormhill South of Gate,
+3020,West of Warmaster's Shack,
+3030,Fort B (Sewer Fort),
+3040,[Heolstor],恶兆妖鬼
+3050,Lake,巨大水泡
+3060,Above Stormhill Tunnel Entrance,虫群
+3070,Southeast of Lake,恶魔诅咒
+3080,East of Cavalry Bridge,
+3090,Center West,
+3100,Northeast of Saintsbridge,
+3110,[Heolstor],冰雾笼罩
+3120,Minor Erdtree,火焰野兽
+3130,Third Church,安定者审判
+3500,Far Southwest,
+3600,Northeast of Saintsbridge,
+4780,Night Boss - Gaping Dragon,贪食魔龙
+4790,Night Boss - Centipede Demon,百足恶魔
+4800,Night Boss - Duke's Dear Freja,弗雷迪亚
+4810,Night Boss - Smelter Demon,熔铁恶魔
+4820,Night Boss - Nameless King,无名王者
+4830,Night Boss - Dancer of the Boreal Valley,舞娘
+4840,Night Boss - Fell Omen (Morgott),恶兆妖鬼
+4850,Night Boss - Draconic Tree Sentinel/Royal Cavalrymen,龙装骑兵
+4860,Night Boss - Tree Sentinel/Royal Cavalrymen,大树骑兵
+4880,Night Boss - Godskin Duo,双神皮
+4890,Night Boss - Wormface,蚯蚓脸
+4910,Night Boss - Grafted Monarch (Godrick),“接肢”君王
+4918,Night Boss - Great Wyrm,大土龙
+4920,Night Boss - Full-Grown Fallingstar Beast,坠星成兽
+4921,Night Boss - Death Rite Bird,死鸟
+4923,Night Boss - Nox Dragonkin Soldier,龙人士兵
+4924,Night Boss - Bell-bearing Hunter (Elemer),铃珠猎人
+4926,Night Boss - Outland Commander (Niall),偏地老将
+4927,Night Boss - Battlefield Commander (O'Neil),战地老将
+4928,Night Boss - Night's Cavalry Duo,黑夜骑兵
+4929,Night Boss - Demi-Human Queen/Demi-Human Swordmaster,女王&剑圣
+4930,Night Boss - Royal Revenant,王室幽魂
+4950,Night Boss - Godfrey phase 1,老旧律法之王
+4951,Night Boss - Golden Hippo (Wings),黄金河马
+4952,Night Boss - Ghostflame Dragon,灵火龙
+4953,Night Boss - Dragonslayer,猎龙铠甲
+4954,Night Boss - Romina,花蕾圣女
+4955,Night Boss - Fortissax,死龙
+4956,Night Boss - Starscourge Radahn,碎星将军
+4957,Night Boss - Rellana,双月骑士
+4958,Night Boss - Fire Demon,火焰恶魔
+4959,Night Boss - Midra,癫火之王
+4960,Night Boss - Regal Ancestor Spirit,祖灵之王
+4961,Night Boss - Adula,月光辉石龙
+4962,Night Boss - Maliketh,黑剑
+4963,Night Boss - Manus,深渊之主
+4964,Night Boss - Gaius,野猪骑士
+4966,Night Boss - Gael,奴隶骑士
+4967,Night Boss - Messmer phase 1,穿刺者
+4968,Night Boss - Rennala phase 2,满月女王
+4969,Night Boss - Malenia phase 1,战无不胜的女武神
+4971,Night Boss - Black knights,黑骑士（双头剑）
+4972,Night Boss - Fire knights,火焰骑士队长
+4973,Night Boss - Crucible knights,熔炉骑士（剑盾）
+4974,Night Boss - Valiant gargoyle duo,雷霆石像鬼
+4975,Night Boss - E33,堕落远征队
+4976,Night Boss - Avatar,叛神者
+4978,Night Boss - Gyoubu,鬼庭形部雅孝
+4979,Night Boss - Logarius,染血殉道者
+4990,Night Boss - Ulcerated Tree Spirit,腐烂树灵
+5201,Night Boss - Great Red Bear,大红熊
+5202,Night Boss - Death Knights,死骑士
+5203,Night Boss - Demon in Pain/Demon from Below,双恶魔
+5210,"Gnoster, West Stormhill Graveyard",鲜血君王
+5211,Night Boss - Divine Beast Dancing Lion,神兽舞狮
+5212,Night Boss - Knight Artorias,亚尔特留斯
+5213,Night Boss - Demon Prince,恶魔王子
+7700,,Day1额外Boss
+7701,,Day1陨石
+7702,,Day1灵庙
+7704,,Day1黑夜势力
+7705,,Day1
+7706,,魔法师塔
+7707,,癫火塔
+7720,,Day2额外Boss
+7721,,Day2陨石
+7722,,Day2灵庙
+7724,,Day2黑夜势力
+7725,,Day2
+7726,,魔法师塔
+7727,,癫火塔
+8000,Southwest Corner,
+8001,,
+8002,,
+8003,,
+8004,,
+8005,,
+8006,,
+8007,,
+8008,,
+8009,,
+8010,West Stormhill Graveyard,
+8011,,
+11000,[Great Hollow],
+11001,[Great Hollow],
+11002,[Great Hollow],
+12000,[Great Hollow] Divine Tower,
+12001,[Great Hollow] Divine Tower,
+13000,,
+13001,,
+13002,,
+20000,Groveside,
+20100,Gatefront,
+20300,Northwest Stormhill,
+20400,South Lake,
+20500,Alexander Spot,
+20600,Northeast Stormhill,
+20800,West Mistwood,
+20900,Northwest Mistwood,
+21000,Artist's Shack,
+21100,Summonwater Approach,
+21200,South Mistwood,
+21300,Minor Erdtree,
+21400,Northeast Mistwood,
+21500,Summonwater,
+30000,Lordsworn Captain,骑士
+30001,Abductor Virgin,君王军的士兵长
+30300,Guardian Golem,魔像
+30301,Crystalians,结晶人
+32000,Banished Knights,失乡
+32001,Elder Lion,老狮子
+32100,Leonine Misbegotten,混种
+32101,Redmane Knights,红狮子
+32102,Royal Army Knights,骑士
+32200,Flame Chariots,战车
+32201,Frenzied Flame Troll,癫火
+34000,Erdtree Burial Watchdogs,看门犬
+34001,Sanguine Noble,鲜血
+34002,Ancient Heroes of Zamor,萨米尔
+34003,Albinaurics,白金之子
+34100,Perfumer,调香师
+34101,Depraved Perfumer,堕落调香师
+34102,Battlemages,法师
+34103,Albinauric Archers,白金射手
+34104,Runebear,卢恩熊
+34200,Wormface,蚯蚓脸
+34300,Beastmen of Farum Azula,兽人
+37900,Township,村庄
+38000,Oracle Envoys,使者
+38001,Guardian Golem,魔像
+38100,Fire Monk,火焰
+38101,Mausoleum Knight,灵庙
+40000,Above Door,门上方
+40001,Imp Statue,小雕像
+40002,Withered Trees,枯树
+40003,Pool Reflection,池塘上
+40004,Fake Building,木板
+40005,Windy Trees,草丛
+40006,Fog Door,雾门
+40007,Fleeing Stump,树桩
+40008,Unlit Candle,灯
+40009,Missing Statue,隐藏墙
+40101,Incantation Rise A,
+40102,Incantation Rise A,
+40103,Incantation Rise A,
+40900,"Above Door, Teleporting Trees, Missing Statue",古代法师塔
+40901,"Imp Statue, Teleporting Trees, Fleeing Stump",古代法师塔
+40904,"Fake Building, Pool Reflection, Second Floor",古代法师塔
+40905,"Imp Statue, Windy Trees, Second Floor",古代法师塔
+40907,"Fake Building, Right of Door, Unlit Candle",古代法师塔
+40908,"Rear Withered Trees, Right of Door, Missing Statue",古代法师塔
+41000,Normal,小教堂
+41010,Rats,小教堂
+41011,Rats Alt,小教堂-鼠
+41300,Rotted,腐败教堂
+43000,Dogs and Soldiers,骑士小营地
+43001,Soldiers,骑士小营地
+43010,Wandering Nobles,贵族小营地
+43011,Nobles and Soldiers,贵族小营地
+43020,Foot Soldiers,弩兵小营地
+43300,Putrid Ancestral Followers,腐败小营地
+43301,Putrid Ancestral Followers Alt,腐败小营地
+43400,Dogs,混种小营地
+43401,Misbegotten,混种小营地
+43410,Demi-Humans,亚人小营地
+43411,Rats and Demi-Humans,亚人小营地
+43501,Guilty Alt,火焰小营地
+44010,Shack,小屋
+45000,Caravans,车队
+45010,Caravans and Nobles,贵族车队
+45511,Black Knife Assassin,黑刀刺客
+45512,Field Boss - Black Knife Assassin,离群猎犬骑士
+45513,Frenzied Duelist,发狂斗士
+45514,Outrider Knight,征战骑士
+45520,Maris,
+45530,Gnoster,
+45550,Libra,
+46000,Trolls and Soldiers,
+46010,Caelid Wildlife,
+46020,Ants,
+46030,Fingercreepers,
+46040,Dragons,
+46050,Guardian Golems,
+46060,Revenant Followers,
+46502,Omen,恶兆之子
+46503,Grave Warden Duelist,守墓斗士
+46504,Beastmen of Farum Azula,兽人集团
+46505,Beastly Brigade,混种集团
+46511,Red Wolf of the King Consort,王夫的红狼
+46512,Miranda Blossom,米兰达之花
+46513,Miranda Blossom,米兰达之花
+46514,Miranda Blossom,米兰达之花
+46515,Miranda Blossom,米兰达之花
+46516,Demi-Human Queen,亚人女王
+46521,Draconic Tree Sentinel,龙装大树守卫
+46522,Field Boss - Draconic Tree Sentinel,腐败树灵
+46523,Field Boss - Draconic Tree Sentinel,腐败化身
+46524,Royal Carian Knight,卡利亚禁卫骑士
+46531,Tree Sentinel,大树守卫
+46532,Crucible Knight,熔炉骑士
+46533,Crucible Knight,熔炉骑士
+46534,Crucible Knight,熔炉骑士
+46541,Ancient Dragon,古龙
+46542,Mountaintop Ice Dragon,山顶冰龙
+46543,Decaying Rancor Dragon,步入腐败仇恨龙
+46544,Nox Dragonkin Soldier,诺克斯的龙人士兵
+46551,Leonine Misbegotten,狮子混种
+46552,Erdtree Burial Watchdog,归树看门犬
+46553,Erdtree Burial Watchdog,归树看门犬
+46554,Erdtree Burial Watchdog,归树看门犬
+46561,Bell Bearing Hunter,铃珠猎人
+46562,Valiant Gargoyle,英雄石像鬼
+46563,Outland Commander,偏地老将
+46571,Golden Hippopotamus,黄金河马
+46572,Troll Knight,骑士山妖
+46573,Night's Cavalry,黑夜骑兵
+46581,Flying Dragon of the Hills,丘陵飞龙
+46582,Field Boss - Flying Dragon of the Hills,灵火龙
+46583,Magma Wyrm,熔岩土龙
+46584,Lake Glintstone Dragon,湖之辉石龙
+46591,Elder Lion,老狮子
+46592,Abductor Virgins,掳人少女人偶群
+46593,Wormface,蚯蚓脸
+46602,Crystalians,结晶人
+46603,Stoneskin Lords,石肤众王
+46604,Banished Knights,失乡骑士
+46605,Nox Warriors,诺克斯
+46606,Bloodhound Knight,猎犬骑士
+46621,Lordsworn Knights,君王军骑士们
+46622,Cuckoo Knights,杜鹃骑士们
+46623,Royal Army Knights,罗德尔骑士们
+46624,Redmane Knights,红狮子骑士们
+46625,Mausoleum Knights,灵庙骑士们
+46626,Haligtree Knights,圣树骑士们
+46627,Field Boss - Night's Cavalry,调香师群
+46628,Field Boss - Night's Cavalry,蒙格温使团
+46631,Ulcerated Tree Spirit,腐烂树灵
+46632,White Runebear,白色卢恩熊
+46633,Night's Cavalry Duo (Dismounted),黑夜骑兵们（已下马）
+46641,Ancestor Spirit,祖灵
+46642,Field Boss - Ancestor Spirit,神兽战士
+46643,Field Boss - Ancestor Spirit,神兽战士
+46644,Field Boss - Ancestor Spirit,神兽战士
+46651,Ancient Hero of Zamor,萨米尔的古英雄
+46652,Field Boss - Grafted Scion,尊腐骑士
+46653,Skeletal Gladiator,弗雷德利克
+46661,Black Blade Kindred,黑剑眷属
+46662,Field Boss - Black Blade Kindred,大红熊
+46663,Field Boss - Black Blade Kindred,神兽舞狮
+46671,Erdtree Avatar,黄金树的化身
+46672,Hollow Manservant (Slashy),红袍活尸（斩击）
+46673,Hollow Manservant (Bashy),红袍活尸（打击）
+46674,Hollow Manservant (Crashy),红袍活尸（撞击）
+46681,Godskin Apostle,神皮使徒
+46682,Godskin Noble,神皮贵族
+46683,Dragonkin Soldier,龙人士兵
+46691,Grafted Scion,“接肢”贵族后裔
+46692,Misbegotten Crusader,混种圣骑士
+46693,Rotten Duelist,腐败守墓斗士
+46694,Field Boss - Ancient Hero of Zamor,神鸟战士
+46695,Corvian Knight,鸦人骑士
+46696,Corvian Knight,鸦人骑士
+46700,Dragonkin Soldier,龙人士兵
+46701,Dragonkin Soldier,龙人士兵
+46702,Godskin Apostle,神皮使徒
+46703,Godskin Noble,神皮贵族
+46704,Crucible Knight,熔炉骑士
+46711,Field Boss - Miranda Blossom,米兰达花
+46712,Field Boss - Miranda Blossom,米兰达花
+46713,Field Boss - Miranda Blossom,火焰骑士队长
+46714,Royal Revenant,王室幽魂
+46721,Demi-Human Swordmaster,亚人剑圣
+46722,Field Boss - Golden Hippopotamus,咒剑士
+46723,Field Boss - Golden Hippopotamus,死骑士
+46724,Field Boss - Golden Hippopotamus,死骑士
+46741,Godskin Duo,神皮双人组
+46742,Death Rite Bird,死亡仪式鸟
+46743,Fallingstar Beast,坠星兽物
+46751,Ancient Dragon,古龙
+46752,Mountaintop Ice Dragon,山顶冰龙
+46753,Decaying Rancor Dragon,步入腐败仇恨龙
+46754,Nox Dragonkin Soldier,诺克斯的龙人士兵
+46761,Flying Dragon of the Hills,丘陵飞龙
+46762,,灵火龙
+46763,Magma Wyrm,熔岩土龙
+46764,Lake Glintstone Dragon,湖之辉石龙
+46771,Field Boss - Demi-Human Queen,血怪群
+46772,Field Boss - Demi-Human Queen,拷问双人组
+46773,Runebear,卢恩熊
+46774,Red Wolf of the Champion,英雄红狼
+46780,Morgott,
+46800,Death Rite Bird,死鸟
+46801,Ancient Dragon,古龙
+46802,Godskin Duo,双神皮
+46811,Black Knife Assassin,黑刀刺客
+46812,Frenzied Duelist,发狂斗士
+46813,Rotten Duelist,腐败守墓斗士
+46814,Basement Boss - Black Knife Assassin,死骑士
+46821,Red Wolf of the King Consort,王夫的红狼
+46822,Corvian Knight,鸦人骑士
+46823,Elder Lion,老狮子
+46824,Bloodhound Knight,猎犬骑士
+46861,Leonine Misbegotten,狮子混种
+46862,Misbegotten Crusader,混种圣骑士
+46863,Basement Boss - Leonine Misbegotten,拷问官
+46864,Skeletal Gladiator,弗雷德利克
+46871,Bell Bearing Hunter,铃珠猎人
+46872,Erdtree Burial Watchdog,归树看门犬
+46873,Erdtree Burial Watchdog,归树看门犬
+46874,Erdtree Burial Watchdog,归树看门犬
+46881,Royal Revenant,王室幽魂
+46882,Basement Boss - Royal Revenant,米兰达花
+46883,Basement Boss - Royal Revenant,米兰达花
+46884,Basement Boss - Royal Revenant,火焰骑士队长
+46911,Grafted Scion,“接肢”贵族后裔
+46912,Hollow Manservant (Bashy),红袍活尸（打击）
+46913,Outrider Knight,征战骑士
+46914,Basement Boss - Grafted Scion,咒剑士
+46951,Ancient Hero of Zamor,萨米尔的古英雄
+46952,Crucible Knight,熔炉骑士
+46953,Crucible Knight,熔炉骑士
+46954,Basement Boss - Ancient Hero of Zamor,尊腐骑士
+46955,Crucible Knight,熔炉骑士
+47802,Night Boss - Gaping Dragon,贪食魔龙
+47902,Night Boss - Centipede Demon,百足恶魔
+48002,Night Boss - Duke's Dear Freja,弗雷迪亚
+48102,Night Boss - Smelter Demon,熔铁恶魔
+48302,Night Boss - Dancer of the Boreal Valley,舞娘
+48402,Night Boss - Fell Omen (Morgott),恶兆妖鬼
+48502,Night Boss - Draconic Tree Sentinel/Royal Cavalrymen,龙装骑兵
+48602,Night Boss - Tree Sentinel/Royal Cavalrymen,大树骑兵
+48802,Night Boss - Godskin Duo,双神皮
+49102,Night Boss - Grafted Monarch (Godrick),接肢君王
+49172,Night Boss - Valiant Gargoyle,石像鬼
+49182,Night Boss - Great Wyrm,大土龙
+49202,Night Boss - Full-Grown Fallingstar Beast,坠星成兽
+49212,Night Boss - Death Rite Bird,死鸟
+49232,Night Boss - Nox Dragonkin Soldier,龙人士兵
+49242,Night Boss - Bell-bearing Hunter (Elemer),铃珠猎人
+49252,Night Boss - Crucible Knight/Golden Hippopotamus,熔炉&河马
+49262,Night Boss - Outland Commander (Niall),偏地老将
+49272,Night Boss - Battlefield Commander (O'Neil),战地老将
+49282,Night Boss - Night's Cavalry Duo,黑夜骑兵
+49292,Night Boss - Demi-Human Queen/Demi-Human Swordmaster,女王&剑圣
+49302,Night Boss - Royal Revenant,王室幽魂
+49400,Scale-Bearing Merchant,
+49411,Castle A - Banished Knights,
+49412,Castle A - Banished Knights,
+49413,Castle A - Banished Knights,
+49414,Castle A - Banished Knights,
+49415,Castle A - Banished Knights,
+49416,Castle A - Banished Knights,
+49417,Castle A - Banished Knights,
+49418,Castle A - Banished Knights,
+49421,Castle B - Pot Trolls,发狂斗士
+49422,Castle B - Pot Trolls,发狂斗士
+49423,Castle B - Pot Trolls,发狂斗士
+49424,Castle B - Pot Trolls,发狂斗士
+49425,Castle B - Pot Trolls,发狂斗士
+49426,Castle B - Pot Trolls,发狂斗士
+49427,Castle B - Pot Trolls,发狂斗士
+49428,Castle B - Pot Trolls,发狂斗士
+49431,Castle C - Crucible Knights,
+49432,Castle C - Crucible Knights,
+49433,Castle C - Crucible Knights,
+49434,Castle C - Crucible Knights,
+49435,Castle C - Crucible Knights,
+49436,Castle C - Crucible Knights,
+49437,Castle C - Crucible Knights,
+49438,Castle C - Crucible Knights,
+49902,Night Boss - Ulcerated Tree Spirit,树灵
+50001,Marsh A - Poison,毒沼泽
+50011,Marsh B - Poison,毒沼泽
+50020,Marsh A - Frost,冻伤沼泽
+50030,Marsh A - Sleep,睡眠沼泽
+50040,Marsh A - Rot,腐败沼泽
+50050,Marsh B - Madness,癫火沼泽
+50060,Marsh B - Blood,出血沼泽
+50100,Blacksmith Village A (Upper Boss),锻造村
+50102,Blacksmith Village A (Upper Boss),出血锻造村
+50103,Blacksmith Village A (Upper Boss),雷锻造村
+50104,Blacksmith Village A (Upper Boss),圣锻造村
+50112,Blacksmith Village B (Spread Group),锻造村
+50113,Blacksmith Village B (Spread Group),火锻造村
+50114,Blacksmith Village B (Spread Group),毒锻造村
+50116,Blacksmith Village B (Spread Group),雷锻造村
+51000,Church - Great Hollow,
+51050,Small Camp - Great Hollow,
+51051,Small Camp - Great Hollow,
+51100,Sorcerer's Rise - Great Hollow,门上方
+51101,Sorcerer's Rise - Great Hollow,小雕像
+51102,Sorcerer's Rise - Great Hollow,枯树
+51103,Sorcerer's Rise - Great Hollow,池塘上
+51104,Sorcerer's Rise - Great Hollow,木板
+51105,Sorcerer's Rise - Great Hollow,草丛
+51106,Sorcerer's Rise - Great Hollow,雾门
+51107,Sorcerer's Rise - Great Hollow,树桩
+51108,Sorcerer's Rise - Great Hollow,灯
+51109,Sorcerer's Rise - Great Hollow,隐藏墙
+51150,Caravans - Great Hollow,
+52400,Great Church A - Holy (Great Hollow),圣教堂
+52420,Great Church A - Frost (Great Hollow),冻伤教堂
+52450,Great Church B - Sleep (Great Hollow),睡眠教堂
+52460,Great Church B - Lightning (Great Hollow),雷教堂
+52500,Ruins A - Blood (Great Hollow),血废墟
+52520,Ruins A - Poison (Great Hollow),毒废墟
+52550,Ruins B - Magic (Great Hollow),魔废墟
+52570,Ruins B - Sleep (Great Hollow),睡眠废墟
+53000,Boss Raid - Tricephalos (Gladius),
+53050,Boss Raid - Fissure in the Fog (Caligo),
+53490,Western Underground Fort (Underground Part) - Bloodhound Knight,
+53500,Western Underground Fort (Main) - Fire,
+53510,Western Underground Fort (Main) - Magic,
+53520,Western Underground Fort (Underground) - Omenkillers,
+53530,Western Underground Fort (Underground) - Bloodhound Knights,
+53540,Western Underground Fort (Icon) - Fire,
+53550,Western Underground Fort (Library) - Sorcerers,
+53560,Western Underground Fort (Library) - Carians,
+53570,Western Underground Fort (Icon) - Magic,
+53580,,火焰骑士城
+53590,,神皮城
+53600,,恶兆猎人
+53610,Western Underground Fort (Underground Part),猎犬骑士
+53620,Western Underground Fort (Outside) - Fire Knights,
+53630,Western Underground Fort (Outside) - Blackflame Monks,
+53640,,
+53670,Eastern Underground Fort (Main) - Rot,尊腐城
+53680,Eastern Underground Fort (Main) - Holy,角人城
+53700,Eastern Underground Fort (Interior) - Banished Knights,失乡
+53710,Eastern Underground Fort (Interior) - Curseblades,咒剑士
+53720,Eastern Underground Fort (Interior) - Omen,噩兆
+53800,Eastern Underground Fort (Icon) - Rot,
+53810,,
+53820,Eastern Underground Fort (Icon) - Holy,
+53830,,
+53860,,
+53870,,
+53880,,
+53890,,
+53900,,
+53910,,
+53990,,
+1038400230,,
+1044360220,,
+1044380230,,
+1046300590,,
+1046400230,,
+1047300590,,
+1057300590,,
